@@ -1,0 +1,3383 @@
+a
+love (for inanimates only); to love (inanimates only)       {Core Word}
+áabe
+book       {Dictionary 2nd. Ed.}
+áabewehe
+bookstore [áabe=book + wehe=store]       {Grammar Updates: SH}
+áada
+smile       {AB}
+aálá
+spray, to spray (as in water)       {Grammar Updates: SH}
+áala
+thank you       {Dictionary 2nd. Ed.}
+áalaá
+butterfly       {Dictionary 2nd. Ed.}
+aáláan
+wave of water (on ocean or lake)       {Dictionary 2nd. Ed.}
+aáláthon
+ejaculate [aálá=spray + thon=seed]       {YML}
+aále
+curl, ruffle, to curl       {SH}
+aálesh
+parsley, the herb       {SH}
+áalilomáa
+sound of rhythmically flowing water       {SH}
+áalilomáan
+sound of rhythmic waves       {SH}
+áana
+sleep, to sleep (synonym: ina)       {Core Word}
+áath
+door       {Dictionary 2nd. Ed.}
+áatham
+church [áath=door + tham=circle]       {Dictionary 2nd. Ed.}
+áathethóo
+door guest, a guest who just shows up at your door [áath=door + (e)thóo=guest] (See also: thóo, nithedimethóo, shineshidethóo, widadithethóo)       {CH}
+áayáa
+mysterious love, not yet known to be welcome or unwelcome       {Dictionary 2nd. Ed.}
+áayo
+skirt       {Dictionary 2nd. Ed.}
+áazh
+love for one sexually desired at one time, but not now       {Dictionary 2nd. Ed.}
+ab
+love for one liked but not respected       {Dictionary 2nd. Ed.}
+aba
+fragrance, to be fragrant       {Dictionary 2nd. Ed.}
+abash
+tarragon, the herb       {SH}
+abathede
+clitoris [aba=fragrant + thede= jewel]       {Grammar Updates: RB, BG, PJ}
+ábed
+farm, to farm       {Dictionary 2nd. Ed.}
+ábedá
+farmer [ábed=farm + -á=suffix for doer]       {Dictionary 2nd. Ed.}
+ábedun
+field of a farm (noun) [ábed=farm + dun=meadow]       {Grammar Updates: SH}
+abesh
+to be all things, all-that-is (woho=all, every)       {Dictionary 2nd. Ed.}
+ad
+love for one respected but not liked       {Dictionary 2nd. Ed.}
+ada
+laugh, to laugh       {Dictionary 2nd. Ed.}
+adadama
+tickle, to tickle [ada=laugh + dama=touch]       {AH}
+adal
+sew, to sew       {CH}
+Adaletham
+August (berry month) [A-=month prefix + daletham=berry]       {Dictionary 2nd. Ed.}
+adama
+tickle, to tickle [a=love + dama=touch]
+adelith
+dandruff       {JP}
+Adol
+December (root month) [A-=month prefix + dol=root]       {Dictionary 2nd. Ed.}
+adoni
+to land (as a ship or plane); also a landing       {Dictionary 2nd. Ed.}
+ahana
+chocolate [a=love + (h)ana=food]       {CH}
+ahanamezh
+cocoa [ahana=chocolate + mezh=powder]       {CH}
+Ahede
+September (grain month) [A-=month prefix + (h)ede=grain]       {Dictionary 2nd. Ed.}
+Ahesh
+March (grass month) [A-=month prefix + hesh=grass]       {Dictionary 2nd. Ed.}
+áhesh
+responsibility, to be responsible       {Dictionary 2nd. Ed.}
+al
+toilet       {Dictionary 2nd. Ed.}
+alehaáláan
+rhythm       {AH}
+alehala
+art, to “art”, to make art       {Grammar Updates}
+alehale
+music, to make music (sing, whistle, musical instrument)       {Dictionary 2nd. Ed.}
+Alel
+January (seaweed month) [A-=month prefix + lel=seaweed]       {Dictionary 2nd. Ed.}
+alu
+marsh, swamp       {SH}
+álub
+chick [á=very young + lub= chicken]
+am
+love for one related by blood       {Dictionary 2nd. Ed.}
+Amahina
+May (flower month) [A-=month prefix + mahina=flower]       {Dictionary 2nd. Ed.}
+Ameda
+July (vegetable month) [A-=month prefix + meda=vegetable]       {Dictionary 2nd. Ed.}
+amedara
+dance, to dance       {Dictionary 2nd. Ed.}
+ámid
+baby animal, very young creature [á-=baby + mid=animal] (see háamid, yáamid)
+an
+to know (of people)       {Core Word}
+ana
+food       {Core Word}
+anadal
+meal (general term) (breakfast, lunch, dinner, etc) [ana=food + dal=thing]       {Dictionary 2nd. Ed.}
+anadalá
+cook, chef [anadal=meal + -á=suffix for doer]       {Dictionary 2nd. Ed.}
+anahelilith
+feminist-angel [loanword: Greek/Akkadian]      {Grammar Updates: CF}
+analel
+agar (a seaweed) [ana=food + lel=seaweed]       {SH}
+anawehe
+grocery store, food store, to grocery shop [ana=food + wehe=store]       {YML}
+Arahanesha
+Arkansas (loanword)       {Dictionary 2nd. Ed.}
+Aranesha
+Arkansas “pet” name, short form       {Dictionary 2nd. Ed.}
+aril
+1) later, after (in time)       {Core Word}
+aril
+2) future (time auxiliary)       {Dictionary 2nd. Ed.}
+Aril
+good-bye, leavetaking, farewell (aril=later)       {Dictionary 2nd. Ed.}
+aríli
+far future, long ahead (time auxiliary) (aril=later)      {Dictionary 2nd. Ed.}
+ash
+star       {Core Word}
+ásháana
+joyful menstruation, to menstruate joyfully (osháana=to menstruate)       {Dictionary 2nd. Ed.}
+ashon
+love for one not related by blood, but heart-kin       {Dictionary 2nd. Ed.}
+ath
+benison, spoken blessing, to to give a spoken blessing       {Dictionary 2nd. Ed.}
+Athesh
+June (herb month) [A-=month prefix + thesh=herb]       {Dictionary 2nd. Ed.}
+Athil
+April (vine month) [A-=month prefix + thil=vine]       {Dictionary 2nd. Ed.}
+Athon
+November (seed month) [A-=month prefix + thon=seed]       {Dictionary 2nd. Ed.}
+áwith
+baby, infant, very young person [á-=baby + with=person] (see háawith, yáawith)       {Dictionary 2nd. Ed.}
+áwithid
+male baby, male infant [áwith=baby + -id=suffix for male]       {Dictionary 2nd. Ed.}
+áwod
+diaper       {Grammar Updates: SH}
+áya
+to be beautiful       {Core Suppliment}
+Ayáanin
+February (tree month) [A-=month prefix + yáanin=tree]       {Dictionary 2nd. Ed.}
+aye
+love which is an unwelcome burden       {Dictionary 2nd. Ed.}
+Ayu
+October (fruit month) [A-=month prefix + yu=fruit]       {Dictionary 2nd. Ed.}
+azh
+love for one sexually desired now       {Dictionary 2nd. Ed.}
+azháadin
+to menopause uneventfully [zháadin=to menopause]       {Dictionary 2nd. Ed.}
+azhur
+lover       {AH}
+báa
+I say to you as a question, …; I ask…: Question Speech Act, neutral {Dictionary 2nd. Ed.}
+báalish
+patchwork quilt, to make a patchwork quilt (See also: balish) {Dictionary 2nd. Ed.}
+bab
+ball: a spherical object, any of various movable and round or oblong objects used in various athletic activities and games, to form into a ball. {JLP}
+babí
+bird {Core Word}
+bad
+mineral {Core Suppliment}
+bada
+1) spoon {Dictionary 2nd. Ed.}
+bada
+2) repeatedly, at random; Repetition Morpheme (See also: badan, brada, bradan, bradá)
+badan
+repeatedly, in a pattern over which humans have no control; repetition morpheme (See also: bada, brada, bradan, bradá)
+badazh
+metal {SH}
+badazhel
+smith-craft [badazh=metal + el=make] {AB}
+badazhelá
+smith, metal smith [badazh=metal + el=make + -á=doer] {AB}
+badazhud
+ore [badazh=metal + ud=stone]
+bal
+bread {Core Word}
+bala
+anger with reason, with someone to blame, which is not futile (See also: bara, bana, bama, bina) {Dictionary 2nd. Ed.}
+balá
+baker [bal=bread + -á=doer] {Dictionary 2nd. Ed.}
+baledim
+breadbox [bal=bread + (e)dim=container] {JLP}
+balin
+to be old {Core Suppliment}
+balinemid
+turtle, tortoise [balin=old + mid=creature] {Dictionary 2nd. Ed.}
+balish
+quilt, to quilt, not patchwork (See also: báalish) {Dictionary 2nd. Ed.}
+bama
+anger with reason, but with no one to blame, which is not futile (See also: bala, bana, bara, bina) {Dictionary 2nd. Ed.}
+ban
+to give, to make a present of, to place in the hands of, to pass from one to another {Core Word}
+bana
+anger with reason, with no one to blame, which is futile (See also bara, bala, bama, bina) {Dictionary 2nd. Ed.}
+baneban
+forgiveness, to forgive {Dictionary 2nd. Ed.}
+banibel
+give and take, to give and take [ban=give + i=and + bel=take] {SH}
+bara
+anger with reason, with someone to blame, which is futile (See also: bala, bama, bana, bina) {Dictionary 2nd. Ed.}
+bash
+1) thorn, a sharp pointed woody extension of a stem or leaf {Dictionary 2nd. Ed.}
+bash
+2) common sense {Dictionary 2nd. Ed.}
+bath
+1) six (6) number {Dictionary 2nd. Ed.}
+bash
+2) nail, body part general term: fingernail, toenail, claw {Dictionary 2nd. Ed.}
+batha
+fork {Dictionary 2nd. Ed.}
+bathethab
+sixteen (16) number [bath=6 + thab=l0] {Dictionary 2nd. Ed.}
+be
+it/she/he: pronoun: 3rd person: singular: neutral
+bé
+I say as a promise…; Promise Speech Act, neutral {Dictionary 2nd. Ed.}
+bedi
+to learn, a learning {Dictionary 2nd. Ed.}
+bédi
+promise, to promise {Grammar Updates: MLM}
+bedihá
+student, learner [bedi=learning + -á=doer] {Dictionary 2nd. Ed.}
+bedihim
+school field trip, travel for purpose of learning [bedi=learn + (h)im=travel] {JLP}
+bediholowod
+class, group of students who are taught together [bedi=learn + (h)olowod=group] {YML}
+bedilhoth
+useless knowledge lesson [bedi=learn + -lh-=pejorative + loth=information] (See also: bedina, bediloth, bediwoth) {Grammar Updates: AH}
+bediloth
+knowledge lesson [bedi=learn + loth=information] (See also: bedina, bedilhoth, bediwoth) {Grammar Updates: AH}
+bédim
+contract, deal, to make a deal, to make a contract {SH}
+bedina
+lesson (See also: bediloth, bedilhoth, bediwoth) {Grammar Updates: AH}
+bedishod
+classroom [bedi=learn + shod=room] {YML}
+bediwoth
+wisdom lesson [bedi=learn + woth=wisdom] (See also: bedina, bediloth, bedilhoth) {Grammar Updates: AH}
+bée
+I say in warning…; Warning Speech Act, neutral {Dictionary 2nd. Ed.}
+behal
+work counter, work surface surface {Dictionary 2nd. Ed.}
+beheb
+barter, trade, to barter, to trade [eb (buy/sell) + mirrored eb] {AB}
+behili
+fluid (thick), such as corn syrup consistency
+bel
+to take, to take away, to get something into one’s possession {Dictionary 2nd. Ed.}
+belid
+house, structure serving as a dwelling (See also: beth) {Dictionary 2nd. Ed.}
+belidá
+carpenter [belid=house + -á=doer] {Dictionary 2nd. Ed.}
+ben
+they, many (more than 5): pronoun: 3rd person: many: neutral
+bin
+honored
+ban
+beloved
+benem
+stay, to stay, to continue to be in a place or condition {Dictionary 2nd. Ed.}
+beneth
+them (many): pronoun. 3rd person, many, neutral, object [ben=they + -th=object marker]
+berídan
+aunt {Dictionary 2nd. Ed.}
+beth
+1) home, place where one lives (See also: belid) {Core Word}
+betheb
+mirror, to mirror {Dictionary 2nd. Ed.}
+bethud
+cave [beth=home + ud=stone] {SHE}
+beye
+somebody/someone/something – look to verb to distinguish: 3rd person singular indefinite pronoun
+beyóo
+itself/herself/himself [be=it/she/he + -yóo=reflexive marker]
+beyóozh
+themselves, several [bezh=they,several + -(e)yóo=reflexive marker]: 3rd person, several, reflexive pronoun
+bezh
+they (several, 2 to 5 individuals): pronoun: 3rd person: neutral
+bezheth
+them (several): pronoun. 3rd person, several, neutral, object [bezh=they + -th=object marker]
+bid
+1) nerve (boday part) {Dictionary 2nd. Ed.}
+bíi
+I say…: “I say to you, as a statement”: Declarative Speech Act, neutral (usually optional) {Dictionary 2nd. Ed.}
+bil
+fun, to be fun
+bim
+four (4) number {Dictionary 2nd. Ed.}
+bimethab
+fourteen (14) number [bim=4 + thab=l0] {Dictionary 2nd. Ed.}
+bimeya
+fourth [bim=four + -(e)ya=suffix for time] {AB&CH}
+bin
+bowl, a round container open at the top, used for holding liquid, keeping fruit, serving food, etc. {Dictionary 2nd. Ed.}
+bina
+anger with no reason, with no one to blame, which is not futile (See also: bara, bala, bama, bana) {Dictionary 2nd. Ed.}
+bini
+gift, to gift, to give a gift {Dictionary 2nd. Ed.}
+bish
+prize
+bishib
+to be sudden, suddenly {Dictionary 2nd. Ed.}
+bithim
+to meet, to meet with, a meeting {Grammar Updates}
+bo
+mountain {Core Suppliment}
+bó
+I command…; Command Speech Act, neutral (very rare except to small children) {Dictionary 2nd. Ed.}
+bod
+1) line on a surface, line of a computer program {Dictionary 2nd. Ed.}
+bodehal
+rod, staff, stave [bod=line + -(e)hal=unusual degree] {YML}
+bodibod
+program for a computer, to program a computer [bod=line + i=and] {Dictionary 2nd. Ed.}
+bohí
+to be short in length {AB}
+bol
+fleecy-clouded skies {Dictionary 2nd. Ed.}
+bolith
+to linger over something that one has the skill to complete quickly. {JB}
+bom
+oil, household oil, to oil {Dictionary 2nd. Ed.}
+bom
+penis {Dictionary 2nd. Ed.}
+bon
+shirt, blouse {Dictionary 2nd. Ed.}
+boó
+three (3) number {Dictionary 2nd. Ed.}
+bóo
+I request…; Request Speech Act, neutral (polite, usual “command” form) {Dictionary 2nd. Ed.}
+boóbidim
+basket [boóbin (to braid) + dim (container)] {SH}
+boóbil
+ivy plant [boóbin (to braid) + thil (vine)] {SH}
+boóbin
+braid, to braid [boó=three] {Dictionary 2nd. Ed.}
+bóodan
+rescue, save, to rescue, to save {Dictionary 2nd. Ed.}
+boómi
+clover plant, oxalis [boó=three + mi=leaf] {SH}
+boósh
+curve, to be curved {AB}
+boóthab
+thirteen (13) number [boó=3 + thab=l0] {Dictionary 2nd. Ed.}
+boóya
+third [boó=three + -ya=suffix for time] {AB&CH}
+bosh
+wood, general word for wood from a tree {Dictionary 2nd. Ed.}
+boshoya
+bark of tree [bosh=wood + oya=skin] {SH}
+boshum
+cloud [bo=mountain + shum=air] {Dictionary 2nd. Ed.}
+both
+hotel, motel {Dictionary 2nd. Ed.}
+brada
+repeatedly, in a pattern fixed arbitaraily by human beings, repeatedly in an artificial pattern; Repetition Morpheme (see also bada, badan, bradan, bradá)
+bradá
+repeatedly, in a what appears to be a pattern but cannot be demonstrated or proved to be one; Repetition Morpheme (see also bada, badan, brada, bradan)
+bradan
+repeatedly, in a pattern fixed by humans by analogy to some phenomenon (such as the seasons) repetition morpheme (see also bada, badan, brada, bradá)
+bre
+layer, material laid on or spread over a surface {Dictionary 2nd. Ed.}
+bre…ébre
+if .. then {Core Word}
+bremeda
+onion [bre=layer + meda=vegetable] {Dictionary 2nd. Ed.}
+bretham
+spiral, to spiral [bre=layer + tham=circle] {SH}
+bróo
+because {Core Word}
+bú
+to be perverse, quirky, odd, hard to understand
+bud
+1) nine (9) number {Dictionary 2nd. Ed.}
+bud
+2) clothing (general term) {Dictionary 2nd. Ed.}
+buda
+buddha (loan word); should have a capital B when it refers to “the” Buddha {YML}
+budahá
+buddhist [buda=Buddha + -(h)á=doer] {YML}
+budehalid
+masquerade [bud=clothing + (e)halid=competition]
+budeshun
+ceremonial clothing, ritual clothing [bud=clothing + (e)shun=ceremony]
+budethab
+nineteen (19) number [bud=9 + thab=l0] {Dictionary 2nd. Ed.}
+budim
+wardrobe, [bud=clothing + dim=container] {Dictionary 2nd. Ed.}
+búláa
+illusion, erroneous perception of reality [bú=perverse + láa=perception]
+búláalh
+perverse/harmful illusion [bú=perverse + láa=perception + -lh=perjorative]
+búlith
+crazy, insane [bú=perverse/odd + lith=think] {JLP}
+búsholan
+alone “in the bosom of one’s family”
+buth
+to gather (not used with people) (See also: lolin) {Dictionary 2nd. Ed.}
+buzh
+convention, “con”, conference, a large formal assembly of a group with common interests
+dáan
+word (dan=language) {Dictionary 2nd. Ed.}
+dáan i oyi
+body language [dáan=word, i=and, oyi=eye] {Dictionary 2nd. Ed.}
+dáanashoná
+poet {Dictionary 2nd. Ed.}
+dáanelom
+poem [dáan=word + lom=song] {Dictionary 2nd. Ed.}
+dáanoline
+word angel [dáan=word + noline=angel] {CF}
+dadem
+picture {Dictionary 2nd. Ed.}
+dademadal
+embroidery, to embroider [dadem=picture + adal=sew] {CH}
+dahan
+bed (short form)
+dal
+thing {Core Word}
+dal waha
+anything [dal=thing + waha=any] {AB}
+dala
+frustration with reason, with someone to blame, which is not futile, to be frustrated (dama, dana, dara, dina= frustration)
+dala
+plant, any growing thing {Core Word}
+dalatham
+berry [dala=plant + tham=circle] {Dictionary 2nd. Ed.}
+dale
+object, any made thing {Core Word}
+dalebediwan
+desk [dale=object + bedi=learning + -wan=suffix for purpose, in order to] {Dictionary 2nd. Ed.}
+dalehale
+musical instrument {Grammar Updates}
+dalehanawan
+bed [dale=object + áana=sleep + -wan=suffix for purpose, in order to] {Dictionary 2nd. Ed.}
+dalehebewan
+sales table [dale=object + (h)eb=buy,sell + (e)wan=in order to, purpose]
+dalemath
+warehouse, storehouse [dale=object + math=building] {Dictionary 2nd. Ed.}
+daleshun
+ceremonial object [dale=object + shun=ceremony] {Grammar Updates}
+dalethodewan
+writing implement [dale=object + thod=to write + -(e)wan=sufiix for purpose, in order to]
+dalewodewan
+chair [dale=object + wod=to sit + -wan-suffix for purpose, in order to] {Dictionary 2nd. Ed.}
+daleyodewan
+table [dale=object + yod=to eat + -wan=suffix for purpose, in order to] {Dictionary 2nd. Ed.}
+dam
+to manifest, to show signs of some state or emotion, used like English ‘seem’ {Dictionary 2nd. Ed.}
+dama
+to touch, to feel with the skin. Active touching, feeling. “I am feeling the texture of the yarn.” (see láad oyanan, passive touch) {Dictionary 2nd. Ed.}
+dama
+frustration with reason, without someone to blame, which is futile, to be frustrated (dala, dana, dara, dina= frustration)
+damash
+exhibitionisticly demonstrate one’s skill (not a pejorative) [dam=manifest + ash=star] {YML}
+dan
+language (dáan=word) {Core Word}
+dana
+frustration with reason, without someone to blame, which is not futile, to be frustrated (dala, dama, dara, dina= frustration)
+dara
+frustration with reason, with someone to blame, which is futile, to be frustrated (dala, dama, dana, dina= frustration)
+dash
+tooth {Dictionary 2nd. Ed.}
+dashelámála
+nibble, caress with teeth [dash=tooth + lámála=caress] {YML}
+dashobe
+bite, to bite [dash=tooth + obe=through] {SH}
+dashobin
+to chew {SH}
+dath
+point {SH}
+dathi
+needle {SH}
+dathidal
+pin (noun) [dathi=needle + dal=thing] {SH}
+dathim
+needlework, to needlework {Dictionary 2nd. Ed.}
+dathimemid
+spider [dathim=needlework + mid=creature] {Dictionary 2nd. Ed.}
+dathimezhub
+spider [dathim=needlework + zhub=insect] {YML}
+dathimi
+conifer, pine tree [dathi=needle + mi=leaf] {SH}
+dathimid
+hedgehog (American English, porcupine) [dathi=needle + mid=creature] {YML}
+dathimithede
+amber (the gem) [dathimi=pine + thede=jewel] {AB}
+dazh
+to be yielding, pliant, soft {Core Word}
+dazhéeb
+rubber [dazh=yielding + éeb=juice] {YML}
+debe
+one-hundred (100) {Dictionary 2nd. Ed.}
+debe i nede
+one-hundred-and-one (101) [debe=100 + i=and + nede=1] {Dictionary 2nd. Ed.}
+dedide
+story {Dictionary 2nd. Ed.}
+dedidebud
+costume [dedide=story + bud=clothing]
+dedideheril
+herstory, the stories women tell of their past, usually based on interpersonal relationships: births, deaths, relocations, marriages, etc.; “Mary was pregnant with her second when…”, “Just about the time the tribe moved to…” Differentiated from “eri=>history” in that “eri” strives for neutral record keeping, whereas both “dedideheril” and “dedideherilid” stress the story of the past. [dedide=story + (h)eril=past] {JLP}
+dedideherilid
+his-story; the stories men tell of their past, usually based on wars, conquests, major disasters; the way the past is told in most late 20th century “history” books. Differentiated from “eri=>history” in that “eri” strives for neutral record keeping, whereas both “dedideheril” and “dedideherilid” stress the story of the past. [dedide=story + (h)eril=past + -id=male] {JLP}
+dedidelom
+opera [dedide=story + lom=song] {YML}
+dedidethodá
+novelist, storywriter [dedide=story + thod=write + -á=doer] {JLP}
+dedidewoth
+myth, does not mean untruth [dedide=story; woth=wisdom] {Dictionary 2nd. Ed.}
+déedan
+to interpret [dan=language] {Dictionary 2nd. Ed.}
+déela
+garden {Dictionary 2nd. Ed.: SH}
+déeladáan
+sentence [déela=garden + dáan=word] {Dictionary 2nd. Ed.}
+déethel
+flute {Dictionary 2nd. Ed.}
+dehena
+friendliness, despite negative circumstances, to be friendly (dena, dina, dona, duna=friendliness) {Dictionary 2nd. Ed.}
+deheni
+meat {Dictionary 2nd. Ed.}
+dehenihá
+butcher (of meat) [deheni=meat + -(h)á=suffix for doer]
+del
+radio {Dictionary 2nd. Ed.}
+delin
+space (outer) {Dictionary 2nd. Ed.}
+delishe
+to weep, cry (not said of babies) {Dictionary 2nd. Ed.}
+delith
+hair {Dictionary 2nd. Ed.}
+dem
+window {Dictionary 2nd. Ed.}
+demá
+someone you can see right through [dem=window + -á=suffix for doer] {Dictionary 2nd. Ed.}
+demáazh
+tractor {Grammar Updates: SH}
+demeren
+curtain [dem=window + ren=rug, carpet] {Dictionary 2nd. Ed.}
+den
+help, to help {Core Word}
+dena
+friendliness for good reason, to be friendly (dehena, dina, dona, duna= friendliness) {Dictionary 2nd. Ed.}
+dená
+assistant, helper
+desh
+drug {Dictionary 2nd. Ed.}
+desháana
+to menstruate early, menstruation [osháana=to menstruate] {Dictionary 2nd. Ed.}
+deshara
+depression as a side effect of medication {DK}
+di
+to speak, say, tell, talk {Core Word}
+dib
+towel {Dictionary 2nd. Ed.}
+dibithim
+to greet [di=say + bithim=to meet] {CH}
+dide
+to be early {Dictionary 2nd. Ed.}
+didehal
+beginning career, early career, the first career you take after college [dide=early + hal=work] (see ruhobeha, shawithehall) {JLP}
+dideshá
+hours between dawn and rising time {SH}
+dihá
+speaker [di=to say; -á=suffix for doer] {Dictionary 2nd. Ed.}
+diharil
+predict; foretell [di=speak + aril=future]
+diheril
+reminisce; recount past events [di=speak + eril=past] {AB}
+dihomedal
+panel, convention panel discussion [di=talk + hom=teach + (e)dal=thing]
+diídin
+holiday {Dictionary 2nd. Ed.}
+dim
+container {Core Word}
+dimidim
+cupboard, dresser [dim=container + i=and + dim=container] {Dictionary 2nd. Ed.}
+dimil
+lavish, luxurious, sumptuous {AB}
+dimilin
+ornament {Dictionary 2nd. Ed.}
+dimod
+bag, sack, purse [dim=container + od=cloth] {Dictionary 2nd. Ed.}
+dimóowa
+stove [dim=container + óowa=fire] {Dictionary 2nd. Ed.}
+dina
+friendliness for no reason, to be friendly (dehena, dena,dona, duna=friendliness) {Dictionary 2nd. Ed.}
+dina
+frustration without reason, without someone to blame, which is not futile, to be frustrated (dala, dama, dana, dara = frustration)
+dínídin
+toy {Dictionary 2nd. Ed.}
+dinime
+to be beholden {Dictionary 2nd. Ed.}
+dishóodal
+to tell news [di=tell + shóo=happen; come to pass + dal=thing] {AB}
+dith
+voice {Dictionary 2nd. Ed.}
+dithal
+praise, to praise [dith=voice + thal=good] {Dictionary 2nd. Ed.}
+dithemid
+cow [dith=voice + mid=creature] {Dictionary 2nd. Ed.}
+dizh
+kettle {Dictionary 2nd. Ed.}
+do
+to be strong {Core Word}
+dob
+shelf {Dictionary 2nd. Ed.}
+dod
+to fast (not eat), fast {Dictionary 2nd. Ed.}
+dodel
+interface, to interface (It would be appropriate for the interface the linguists used in the Native Tongue trilogy to let their infants acquire Alien languages natively; it would be appropriate for the interface that was used to allow human/dolphin interaction in that area of research. It would be appropriate for those diagrams that show two or more areas with overlapping bits — territory where both or all of the areas overlap.) {Dictionary 2nd. Ed.}
+dodi
+tray {Dictionary 2nd. Ed.}
+dóhada
+be funny; be comical {YML}
+dóhibeyóo
+to fold {Grammar Updates: SH}
+dóhin
+to create, enact [dó-=cause to + (h)in=exist] {YML}
+dóho
+wrap, to wrap [dó-=cause to + o=around] {YML}
+dol
+root {Dictionary 2nd. Ed.}
+dolelith
+principle [dol=root + lith=thought] {Grammar Updates}
+dólhorado
+to dominate with evil intent [dórado=to dominate + lh=negative connotation] {Dictionary 2nd. Ed.}
+doluth
+spine (body part) {Dictionary 2nd. Ed.}
+dom
+to remember {Core Suppliment}
+domesh
+rosemary {SH}
+domid
+elephant [dom=remember + mid=creature] {Dictionary 2nd. Ed.}
+don
+comb {Dictionary 2nd. Ed.}
+dona
+friendliness for foolish reasons, to be friendly (dehena, dena, dina, duna=friendliness) {Dictionary 2nd. Ed.}
+doni
+ground, dirt, earth, soil {Core Suppliment}
+Doni
+Earth (the planet)
+donidan
+lovingkindness {Dictionary 2nd. Ed.}
+donidaná
+lovingkindnesser, one who channels lovingkindness [donidan=lovingkindness + -á=suffix for doer] {Dictionary 2nd. Ed.}
+donihum
+plow, to plow [doni=ground + hum=knife] {YML}
+donili
+mud {SH}
+donilihud
+brick, thing you make walls out of, to brick [donili=mud + ud=stone] {JLP}
+donim
+shovel [doni=ground + im=travel] {SH}
+donithen
+earthquake [doni=earth + then=to break] {Dictionary 2nd. Ed.}
+dóo
+well…. (phrase) {Dictionary 2nd. Ed.}
+doól
+at last, finally {Dictionary 2nd. Ed.}
+doóledosh
+pain or loss which comes as a relief by virtue of ending the anticipation of its coming [doól=at last + dosh=burden] {Dictionary 2nd. Ed.}
+doólelasholan
+alone at last after tiresome experience or people [doól+ela+sholan]
+doóleshol
+relief [doól=al last + shol=absence-of-pain] {SH}
+dóolon
+violin {Dictionary 2nd. Ed.}
+dóon
+to be correct {Dictionary 2nd. Ed.}
+dóonenal
+correctly
+dórado
+to dominate {Dictionary 2nd. Ed.}
+doroledim
+(sublimation with food accompanied by guilt about that sublimation) This word has no English equivalent whatsoever. Say you have an average woman. She has no control over her life. She has little or nothing in the way of a resource for being good to herself, even when it is necessary. She has family and animals and friends and associates that depend on her for sustenance of all kinds. She rarely has adequate sleep or rest; she has no time for herself, no space of her own, little or no money to buy things for herself, no opportunity to consider her own emotional needs. She is at the beck and call of others, because she has these responsibilities and obligations and does not choose to (or cannot) abandon them. For such a woman, the one and only thing she is likely to have a little control over for indulging her own self is FOOD. When such a woman overeats, the verb for that is “doroledim”. (And then she feels guilty, because there are women whose children are starving and who do not have even THAT option for self-indulgence… ) {Dictionary 2nd. Ed.}
+dosh
+burden {Dictionary 2nd. Ed.}
+doth
+to follow {Dictionary 2nd. Ed.}
+dóthad
+to enable, to make possible or easy [dó=cause-to + thad=to be able]
+dóthadá
+enabler, one who enables, makes things possible or easy [dó=cause-to + thad=to be able + á=suffix for doer]
+dóthadelh
+to enable another to persist in self-destructive behavior (for instance substance abuse) by providing excuses or by helping that individual avoid the consequences of such behavior [dó-=cause-to + thad=to be able + -(e)lh=pejorative]
+dóthadelhá
+enabler, one who enables another to persist in self-destructive behavior (for instance substance abuse) by providing excuses or by helping that individual avoid the consequences of such behavior [dó-=cause-to + thad=to be able + -(e)lh-=pejorative + -á=suffix for doer]
+doyáanin
+oak [do=strong + yáanin=tree] {SH}
+dóyom
+protect, shield, safeguard [dó- =cause to + yom=be safe] {AB}
+doyu
+apple [do=strong + yu=fruit] {Dictionary 2nd. Ed.}
+dul
+to give rest, to refresh {Dictionary 2nd. Ed.}
+dumidal
+fox [mid=creature] {Dictionary 2nd. Ed.}
+dun
+meadow, field {Dictionary 2nd. Ed.}
+duna
+friendliness for bad reasons, to be friendly (dehena, dena, dina, dona= friendliness) {Dictionary 2nd. Ed.}
+dush
+to have to, to be obliged to
+duth
+to use {Dictionary 2nd. Ed.}
+dutha
+to heal {Dictionary 2nd. Ed.}
+duthahá
+healer [dutha=to heal + -á=suffix for doer] {Dictionary 2nd. Ed.}
+duthahod
+bandage, to bandage [dutha=to heal + od=cloth] {Dictionary 2nd. Ed.}
+duthahoth
+hospital [dutha=to heal + hoth=place] {Dictionary 2nd. Ed.}
+duthamazh
+ambulance [dutha=to heal + mazh=car] {Dictionary 2nd. Ed.}
+duthawish
+anesthesia [dutha+wish] {Dictionary 2nd. Ed.}
+duthesh
+herbal remedy {SH}
+dutheshara
+depression as a side effect of herbal remedy {DK}
+e
+or, either {Core Word}
+eb
+to buy, to sell {Dictionary 2nd. Ed.}
+eba
+spouse (“Bíi eril X i Y meheba wa.” [X and Y got married. (More literally, “X and Y spoused.”) The verb gets the plural prefix and an epenthetic H.] Láadan wouldn’t allow “X married Y” or “Y married X,” which presuppose that marrying is something one person can do to another. It has to be a joint action, done together.) {Dictionary 2nd. Ed.}
+ebá
+buyer or seller
+ebahóol
+deity (male) [spouse of the moon eba+óol] {CF}
+ebalá
+baker [science of bread doer]
+ebid
+neurology [e-=prefix for science of + bid=nerve] {Dictionary 2nd. Ed.}
+ebod
+ceramics [e-=prefix for science of + bod=dish] {Dictionary 2nd. Ed.}
+ebodá
+ceramist, potter
+ébre
+then
+ed
+tool {Core Word}
+édáan
+lexical gap [é+dáan] {Grammar Updates}
+edáanashon
+poetics (the science of poetry) {Dictionary 2nd. Ed.}
+edáanelom
+poetry {Dictionary 2nd. Ed.}
+edala
+botany [science of plants]
+edama
+science of touch [e-=prefix for science of + dama=touch] {Dictionary 2nd. Ed.}
+edan
+linguistics [e=prefix for science of + dan=language] {Dictionary 2nd. Ed.}
+edaná
+linguist [edan=linguistics + á=suffix for doer] {Dictionary 2nd. Ed.}
+edash
+dentistry [e-=prefix for science of + dash=tooth]
+edashá
+dentist [e-=prefix for science of + dash=tooth + -á=suffix for doer
+ede
+grain {Core Suppliment}
+éde
+nevertheless {Dictionary 2nd. Ed.}
+ededal
+pasta [ede=grain + dal=thing] {Dictionary 2nd. Ed.}
+edeláad
+to believe, believe in [láad=to perceive] {Dictionary 2nd. Ed.}
+edeláada
+believer
+edemath
+grainery [ede=grain + math=building] {Dictionary 2nd. Ed.}
+edemezh
+flour, to flour [ede=grain + mezh=powder] {CH}
+edemid
+mouse [ede=grain + mid=creature] {YML}
+edenesh
+savory (the herb) {SH}
+edeni
+bean {SH}
+edethi
+to share [ede+thi thi=to have] {Dictionary 2nd. Ed.}
+edi
+rhetoric [e-=prefix for science of + di=speak] {Dictionary 2nd. Ed.}
+edin
+cousin {Dictionary 2nd. Ed.}
+eduth
+engineering [e=prefix for science of + duth=to use] {Dictionary 2nd. Ed.}
+edutha
+medicine [e-=prefix for science of + dutha=to heal] {Dictionary 2nd. Ed.}
+eduthá
+engineer [eduth=engineering + -á=suffix for doer] {Dictionary 2nd. Ed.}
+eduthahá
+doctor, physician, healer [edutha=medicine + -á=suffix for doer] {Dictionary 2nd. Ed.}
+eduthawehe
+pharmacy [edutha=science of healing + wehe=store] {YML}
+eduthemid
+beaver [eduth=engineering + mid=creature] {SH}
+éeb
+juice, sap {Dictionary 2nd. Ed.}
+éeba
+portentous
+éebemaha
+wetness caused by sexual desire [éeb=juice + (e)maha=desire(sexual)] {JP et al}
+eéden
+formalism, scientific notation {Dictionary 2nd. Ed.}
+eéle
+terror {Dictionary 2nd. Ed.}
+éelen
+grape {Dictionary 2nd. Ed.}
+éelenethil
+grapevine [éelen=grape + (e)thil=vine]
+éeme
+love for one neither liked nor respected {Dictionary 2nd. Ed.}
+éesh
+sheep {Dictionary 2nd. Ed.}
+éeya
+sickness, disease, illness {Core Word}
+éezh
+goat {Dictionary 2nd. Ed.}
+éezha
+lizard {CH}
+ehá
+scientist [e-=prefix for science of + -á-suffix for doer] {Dictionary 2nd. Ed.}
+eháawith
+child-science
+ehábed
+science of farming; agriculture [e-=science of + (h)ábed=farm]
+ehana
+nutrition [e-=prefix for science of + ana=food) {Dictionary 2nd. Ed.}
+ehash
+astronomy [e-=prefix for science of + ash=star] {Dictionary 2nd. Ed.}
+ehath
+chronography [e-=prefix for science of + hath=time] {Dictionary 2nd. Ed.}
+ehéeda
+religion [e-=prefix for science of + héeda=sacred] {Dictionary 2nd. Ed.}
+ehen
+philosophy [e-=prefix for science of + en=to understand] {Dictionary 2nd. Ed.}
+ehib
+criminology
+ehoba
+anatomy [e-=prefix for science of + oba=body] {Dictionary 2nd. Ed.}
+ehod
+textile science [e-=prefix for science of + od=cloth] {Dictionary 2nd. Ed.}
+ehodá
+textile scientist {Dictionary 2nd. Ed.}
+ehohel
+business (the science)
+éholhob
+particularly malicious threat, to threaten very maliciously [é- =potential + (h)olhob=(malicious) trauma; blow] {AB}
+éholob
+threat, to threaten [é- =potential + (h)olob=trauma; blow] {AB}
+ehom
+education [e-=prefix for science of + om=to teach] {Dictionary 2nd. Ed.}
+ehoth
+geography [e-=prefix for science of + hoth=place] {Dictionary 2nd. Ed.}
+ehoyu
+audiology [e-=prefix for science of + oyu=ear] {Dictionary 2nd. Ed.}
+el
+to make {Dictionary 2nd. Ed.}
+elá
+creator, maker
+elahela
+celebration [alehale=to make music] {Dictionary 2nd. Ed.}
+elalimid
+otter [ela+ili+mid] {SH}
+elamith
+mathematics [e + lamith] {Grammar Updates: AH}
+elash
+to play {SH}
+elasháana
+to menstruate for the first time, menstruation [osháana=to menstruate ela+osháana] {Dictionary 2nd. Ed.}
+elashemid
+squirrel [elash=play + (e)mid=creature] {SH}
+elasholan
+alone and glad of it {Grammar Updates}
+elathil
+morning glory [ela+thil] {SH}
+elazháadin
+to menopause when it’s welcome [zháadin=to menopause ela+zháadin] {Dictionary 2nd. Ed.}
+eliri
+color science
+elith
+psychology [e-=prefix for science of + lith=think] {Dictionary 2nd. Ed.}
+elithá
+psychologist [elith=psychology + -á=doer] {YML}
+elod
+science of house management [e-=science of + lod=household] {YML}
+elodá
+housewife, househusband [e-=prefix for science of + lod=household + á=suffix for doer] {Dictionary 2nd. Ed.}
+elosh
+economics [e-=prefix for science of + losh=money, credit] {Dictionary 2nd. Ed.}
+eloshá
+economist [e-=prefix for science of + losh=money, credit + -á=suffix for doer] {Dictionary 2nd. Ed.}
+eloth
+information science [e-=prefix for science of + loth=information] {Dictionary 2nd. Ed.}
+elothel
+memory [eloth=information science e+loth+el] {Dictionary 2nd. Ed.}
+eluben
+cartography [science of maps]
+em
+yes {Dictionary 2nd. Ed.}
+emahin
+cooking (the science)
+emath
+architecture [e-=science of + math=building] {YML}
+emath
+mother, mama (intimate, informal) (see: mathul, shathul) {Dictionary 2nd. Ed.}
+emathá
+architect [emath=architecture + -á-=doer] {YML}
+emeth
+to clown;loan word based on Emmet Kelly’s name {AH}
+emethá
+clown [emeth+á] {AH}
+emid
+biology [e-=prefix for science of + mid=creature) {Dictionary 2nd. Ed.}
+emina
+transportation [e-=prefix for science of + mina=to move] {Dictionary 2nd. Ed.}
+en
+to understand {Core Word}
+enal
+scientifically {Dictionary 2nd. Ed.}
+enid
+brush (not for hair) {Dictionary 2nd. Ed.}
+enoline
+angel-science [e-=prefix for science of + noline=angel] {Dictionary 2nd. Ed.}
+erabalh
+temptation {Dictionary 2nd. Ed.}
+erabalhedi
+to temptation [erabalh=temptation + -(e)di=goal case marker]
+eri
+history [e-=prefix for science of + ri=to keep records] {Dictionary 2nd. Ed.}
+erihá
+historian [eri=history + -(h)á=doer] {YML}
+eril
+earlier, before (in time) {Core Word}
+eril
+past (Time Auxiliary); a word used to indicate past time [eri=history] {Dictionary 2nd. Ed.}
+eríli
+far past, long ago (Time Auxiliary) [eri=history] {Dictionary 2nd. Ed.}
+eróo
+agriculture [e-=prefix for science of + róo=harvest] {Dictionary 2nd. Ed.}
+eru
+synergistics, science of synergy [e-=science of + ru=synergy] {YML}
+eruhá
+synergist [e-=prefix for science of + ru=synergy + -á=suffix for doer] {Dictionary 2nd. Ed.}
+esh
+boat {Core Suppliment}
+esha
+“science of harmony”; equivalent to “peacemaking” or “peacekeeping” or “mediation” or “conflict resolution.” [e-=science + sha=harmony]
+eshá
+sailor, boatman, boater [esh=boat + -á=doer] {YML}
+eshinehal
+computer science [e-=prefix for science of + shinehal=computer]
+eshishid
+chemistry
+eshon
+peace-science [e-=prefix for science of + shon=peace] {Dictionary 2nd. Ed.}
+eshoná
+diplomat [eshon=peace-science + -á=doer] {YML}
+eth
+to be about (as in “a book about birds”)
+etham
+geometry [e-=prefix for science of + tham=circle] {Dictionary 2nd. Ed.}
+éthe
+clean, to be clean, to make clean (See also: háawithéthe, huhéthe, mudahéthe, onidahéthe, thóohéthe) {Core Word}
+éthedal
+vacuum cleaner [éthe=clean + dal=thing] {Dictionary 2nd. Ed.}
+éthedale
+soap {Dictionary 2nd. Ed.}
+éthehod
+washcloth [éthe=clean + od=cloth] {Dictionary 2nd. Ed.}
+ethóo
+hospitality [e-=prefix for science of + thóo=guest] {Dictionary 2nd. Ed.}
+ewith
+anthropology [e-=prefix for science of + with=person] {Dictionary 2nd. Ed.}
+ewithá
+anthropologist [e-=prefix for science of + with=person + -á=suffix for doer]
+ewithid
+science of males [e-=prefix for science of + with=person + -id=suffix for male] {Dictionary 2nd. Ed.}
+ewomil
+animal husbandry [e-=prefix for science of + womil=livestock]
+eyon
+administration [e-=prefix for science of + yon=government] {Dictionary 2nd. Ed.}
+ezha
+snake {Dictionary 2nd. Ed.}
+ezhab
+investigation [e-=prefix for science of + zhab=puzzles] {Dictionary 2nd. Ed.}
+ezhabá
+investigator [ezhab=investigation + -á=suffix for doer]
+ezhahith
+lightning bolt [ezha=snake + ith=light] {Dictionary 2nd. Ed.}
+ezhazh
+aeronautics [e-=prefix for science of + zhazh=airplanes]
+ezho
+acoustics [e-=prefix for science of + zho=sound]
+háalemamid
+fawn [háa-=young + lemamid=deer]     {YML}
+háami
+thyme, the herb     {SH}
+háamid
+young animal, child creature, general term for offspring [háa-=child + mid=animal] (see ámid, yáamid)
+háanáal
+evening [háa=young + náal=night]     {SH}
+háasháal
+morning [háa=young + sháa=dayl]     {SH}
+háawilidunedal
+tank (for liquid)     {SH}
+háawith
+child, youth, child person, general term for offspring [háa-=child + with=person] (see áwith, yáawith)     {Dictionary 2nd. Ed.}
+háawithéthe
+child-clean, the level of cleanliness at which a child considers her room “clean” [háawith=child + éthe=clean] (See also: éthe, huhéthe, mudahéthe, onidahéthe, thóohéthe)     {AB}
+háawithid
+boy child [háawith=child + -id= suffix for male]     {Dictionary 2nd. Ed.}
+habelid
+to live in, inhabit [belid=house ha+belid]     {Dictionary 2nd. Ed.}
+habo
+coat     {Dictionary 2nd. Ed.}
+háda
+to fall     {Grammar Updates}
+hadihad
+always     {Dictionary 2nd. Ed.}
+hahí
+to be ephemeral; to be brief (time)     {AB}
+hahod
+to be in a state of     {Dictionary 2nd. Ed.}
+hahodib
+deliberately shut off from all feelings, to be in a state of shut off [hahod=state of + -ib=shut off-state of consciousness marker]
+hahodihed
+in shock, numb, to be in a state of numbness [hahod=state of + -ihed=numb-state of consciousness marker]
+hahodimi
+in bewilderment/astonishment <positive> to be in a state of bewilderment [hahod=state of + -imi=bewilderment-state of consciousness marker]
+hahodimilh
+in bewilderment/astonishment <negative> to be in a state of bewilderment (negative) [hahod=state of + -imilh=bewilderment (negative)-state of consciousness marker]
+hahoditha
+linked empathically with another, to be in a state of linked empathically [hahod=state of + -itha=linked-state of consciousness marker]
+hahodiyon
+ecstasy, to be in a state of ecstasy [hahod=state of + -iyon=ecstasy-state of consciousness marker]
+hahodo
+in meditation, to be in a state of meditation [hahod=state of + -o=meditation-state of consciousness marker]
+hahodóo
+in hypnotic trance, to be in a state of hypnotic trance [hahod=state of + -óo=hypnotic trance-state of consciousness marker]
+hal
+work, to work     {Core Word}
+halá
+worker [hal=work + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+halehadihahal
+work which is constantly being interrupted     {Sterling}
+halezhub
+ant [hal=work + (e)zhub=insect]     {YML}
+halid
+competition     {Dictionary 2nd. Ed.}
+halith
+proposition, argument     {Dictionary 2nd. Ed.}
+ham
+to be present, attend, there is/there are [a. Mary Smith is present. (Or “is here.”) b. Mary Smith will attend the meeting tomorrow. (Or “will be at the meeting tomorrow.”) c. There is a tree beside the church./There are trees beside the church. (A tree is/Trees are present in this scene, beside the church.)]     {Core Word}
+han
+south     {Dictionary 2nd. Ed.}
+Hanesháal
+Thursday (South Day) [han=south + (e)sháal=day]     {Dictionary 2nd. Ed.}
+hath
+time     {Core Word}
+hath boó
+thrice     {AB&CH}
+hath menedebe
+often [hath=time + menedebe=many]     {Dictionary 2nd. Ed.}
+hath nede
+once     {AB&CH}
+hath nedebe
+seldom [hath=time + nedebe=few]     {Dictionary 2nd. Ed.}
+hath shin
+twice     {AB&CH}
+hath waha
+anytime [hath=time + waha=any]     {AB}
+hath woho
+every time     {AB&CH}
+hathal
+to be good (said of time) [hath+thal]     {Dictionary 2nd. Ed.}
+hatham
+center [tham=circle]     {Dictionary 2nd. Ed.}
+Hathamesháal
+Sunday (Center Day) [hatham=center + (e)sháal=day]     {Dictionary 2nd. Ed.}
+hathehath
+forever, time everlasting [hath=time + (e)hath=time]     {Dictionary 2nd. Ed.}
+hatheril
+woman-time; marking the passage of time based on interpersonal relationships: births, deaths, relocations, marriages, etc.; “Mary was pregnant with her second when…”, “Just about the time the tribe moved to…” [hath=time + eril=past] (see hatherilid)     {JLP}
+hatherilid
+man-time; marking the passage of time based on important sporting events, wars, conquests, major disasters; the way time is market in most late 20th century “history” books. [hath=time + eril=past + -id=male] (see hatheril)     {JLP}
+hathobéeya
+until     {Grammar Updates}
+hathóol
+month [hath=time + óol=moon]     {Dictionary 2nd. Ed.}
+háwithá
+baby nurse, nanny [áwith=baby + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+háya
+to be beautiful (said of time) [áya=to be beautiful]     {Dictionary 2nd. Ed.}
+heb
+down, the direction     {Core Word}
+hed
+glass (for drinking)     {Dictionary 2nd. Ed.}
+héda
+to drop, spill, let fall [héedá=to pick up, lift up]     {Dictionary 2nd. Ed.}
+héeda
+to be sacred, holy     {Dictionary 2nd. Ed.}
+héedá
+to pick up, lift up [héda=to drop, let fall]     {Dictionary 2nd. Ed.}
+héedan
+to translate [dan=language]     {Dictionary 2nd. Ed.}
+héedarana
+sacred drink, to drink sacred drink [héeda = sacred + rana = drink]     {JLP}
+héena
+sibling of the heart [hena=sibling by birth]     {Dictionary 2nd. Ed.}
+héeya
+fear, to fear, to be afraid     {Core Word}
+héeyasholan
+alone with terror [héeya+shalon]     {Grammar Updates}
+hem
+underwear     {Dictionary 2nd. Ed.}
+hemen
+bush
+hena
+sibling by birth [héena=sibling of the heart]     {Dictionary 2nd. Ed.}
+hene
+east     {Dictionary 2nd. Ed.}
+Henesháal
+Monday (East Day) [hene=east + sháal=day]     {Dictionary 2nd. Ed.}
+hesh
+grass     {Core Suppliment}
+heshedon
+rake, to rake [hesh=grass + (e)don=comb]     {SH}
+heshehoth
+park [hesh=grass + (e)hoth=place]     {Dictionary 2nd. Ed.}
+hesho
+to surpass [used in comparatives], exceed
+heth
+dowry     {Dictionary 2nd. Ed.}
+heyi
+pain     {Dictionary 2nd. Ed.}
+hezh
+lemon [hizh=lime]     {Dictionary 2nd. Ed.}
+hi
+this, that: Demonstrative pronoun: singular     {Dictionary 2nd. Ed.}
+hib
+ovary     {YML}
+hibid
+testicle     {Dictionary 2nd. Ed.}
+hibo
+hill [híya=small + bo=mountain]     {Dictionary 2nd. Ed.}
+hibomid
+camel [hibo=hill; mid=creature]     {Dictionary 2nd. Ed.}
+hidel
+ham radio [híya=small + del=radio]     {Dictionary 2nd. Ed.}
+hihath
+now, right now, right this instant [hi=this + hath=time]
+hil
+attention, to pay attention to, to attend     {Dictionary 2nd. Ed.}
+hin
+these, those: Demonstrative pronoun: many
+hinal
+thus [hi=this, that + -nal=suffix for manner]     {Dictionary 2nd. Ed.}
+hinethed
+those: Demonstrative pronoun: many [hin=these + (e)thed=far]
+hinethoma
+these: Demonstrative pronoun: many [hin=these + (e)thoma=near]
+hish
+snow     {Dictionary 2nd. Ed.}
+hishud
+hail [hish=snow + ud=stone]     {Dictionary 2nd. Ed.}
+hithed
+that: Demonstrative pronoun: singular [hi=this + thed=far]
+hithoma
+this: Demonstrative pronoun: singular [hi=this + thoma=near]
+hiwetha
+left (direction) [hi=this + weth=way + a=leftward]
+hiwetho
+right (direction) [hi=this + weth=way + o=rightward]
+híya
+to be small     {Core Word}
+híyahath
+week [híya=small + hath=time]     {Dictionary 2nd. Ed.}
+híyamesh
+narrow [híya=small + mesh=across]     {AB}
+hizh
+these, those: Demonstrative pronoun: several
+hizh
+lime [hezh= lemon]     {Dictionary 2nd. Ed.}
+hizhethed
+those: Demonstrative pronoun: several [hizh=these + (e)thed=far]
+hizhethoma
+these: Demonstrative pronoun: several [hizh=these + (e)thoma=near]
+hob
+butter     {Dictionary 2nd. Ed.}
+hoberídan
+great-aunt [berídan=aunt]     {Dictionary 2nd. Ed.}
+hod
+stomach     {Dictionary 2nd. Ed.}
+hoda
+apology, pardon me, phrase to indicate that you regret whatever it is that you find yourself obliged to do — like interrupting someone (see hóoda)     {Dictionary 2nd. Ed.}
+hodáath
+bowels [hod=stomach + áath=door], intestines     {Dictionary 2nd. Ed.}
+hodo
+tulip     {Dictionary 2nd. Ed.}
+hohal
+office, workplace [hal=to work ho+hal]     {Dictionary 2nd. Ed.}
+hohama
+glory
+hohathad
+all-power, omnipotence (without the feature ‘male’)     {Dictionary 2nd. Ed.}
+holanemid
+wolf (noun) [ho- =grand-; ancestor + lanemid=dog]     {AB}
+hom
+nectar     {Dictionary 2nd. Ed.}
+homana
+dessert, nectar food [hom=nectar + ana=food]     {Dictionary 2nd. Ed.}
+homeyu
+nectarine [hom=nectar + yu=fruit]     {Dictionary 2nd. Ed.}
+hon
+west     {Dictionary 2nd. Ed.}
+honáal
+hours between midnight and dawn     {SH}
+Honesháal
+Tuesday (West Day); [hon=west + sháal=day]     {Dictionary 2nd. Ed.}
+hóo
+mattress     {Dictionary 2nd. Ed.}
+hóoda
+apology, excuse me, phrase to indicate that you need to leave a particular location (see hoda)     {Dictionary 2nd. Ed.}
+hoówith
+granddaughter [with=person]     {Dictionary 2nd. Ed.}
+hoówithid
+grandson [with=person + -id=suffix for male]     {Dictionary 2nd. Ed.}
+hosh
+feather     {Dictionary 2nd. Ed.}
+hosherídan
+great niece [sherídan=niece]     {Dictionary 2nd. Ed.}
+hoth
+place     {Core Word}
+hoth waha
+anywhere [hoth=place + waha=any]     {AB}
+hothal
+to be good (said of place)     {Dictionary 2nd. Ed.}
+hothul
+grandmother [thul=parent]     {Dictionary 2nd. Ed.}
+hothulewoth
+“momilies”, some piece of knowledge or lore that has been passed from mother to daughter for at least two generations [hothul=grandmother + woth=wisdom]     {CH}
+hóya
+to be beautiful (said of place) [áya=to be beautiful]     {Dictionary 2nd. Ed.}
+hoyo
+tail     {SH}
+hozhazh
+airport [zhazh=airplane]     {Dictionary 2nd. Ed.}
+hu
+ruler, boss     {Dictionary 2nd. Ed.}
+hubod
+edge (sharp) [hum=knife + bod=line]     {SH}
+huhéthe
+boss-clean, probably the highest level of cleaning you would need [hu=boss + (h)éthe] (See also: éthe, háawithéthe, mudahéthe, onidahéthe, thóohéthe)     {CH}
+huhid
+king [hu=ruler + -(h)id=male]     {Dictionary 2nd. Ed.}
+hulehul
+for sure (an emphatic, strong positive) [-hul=suffix denoting to an extreme degree]     {Dictionary 2nd. Ed.}
+hum
+knife     {Dictionary 2nd. Ed.}
+huma
+to be sharp     {SH}
+humazho
+whistle, to whistle [huma=sharp + zho=sound]     {Grammar Updates: SH}
+humazhomid
+guinea pig [humazho=whistle + mid=creature]     {SH}
+humesh
+to cut [hum=knife + mesh=across]     {SH}
+hun
+north     {Dictionary 2nd. Ed.}
+Hunesháal
+Wednesday (North Day) [hun=north + sháal=day]     {Dictionary 2nd. Ed.}
+husháana
+to menstruate painfully, menstruation [osháana=to menstruate]     {Dictionary 2nd. Ed.}
+huthil
+kudzu [hu=ruler + thil=vine]     {SH}
+húumid
+owl húu (onomatopoeia) [mid=creature]     {Dictionary 2nd. Ed.}
+i
+and     {Core Word}
+ib
+against     {Dictionary 2nd. Ed.}
+ib
+crime     {Dictionary 2nd. Ed.}
+ibádi
+to accuse [ib =crime + -á =doer + di =speak]     {AB}
+ibálh
+criminal [ib=crime + -á=suffix for doer + lh =negative connotation]     {Dictionary 2nd. Ed.}
+ibath
+to scratch [not said of scratching an itch] [ib=against + bath=fingernail]     {SH}
+ibáyóodi
+to confess (literally: to accuse oneself) [ib=crime + -á=doer + -yóo- =reflexive(-self) + di=speak]     {AB}
+ibo
+to exhaust oneself, exhaustion     {Dictionary 2nd. Ed.}
+ibolh
+to exhaust with negative connotation, exhaustion     {Dictionary 2nd. Ed.}
+iboshara
+burnout [ibo+shara]     {DK}
+iboth
+scratch (noun)     {SH}
+id
+and then     {Core Suppliment}
+idon
+brush (for hair)     {Dictionary 2nd. Ed.}
+ihé
+before (in space), in front of [ihée=after]     {Core Word}
+ihée
+after (in space), behind [ihé=before]     {Core Word}
+íi
+also
+íizha
+although     {Dictionary 2nd. Ed.}
+il
+to see, to watch, to look at, to pay attention to, to observe. Active seeing, which includes looking, watching, observing, and paying active attention to something visually. “I am watching you.” (see lAad oyinan, passive seeing)     {Dictionary 2nd. Ed.}
+ilá
+spectator [il=pay attention + -á=doer]     {AB}
+ílhi
+disgust [lh=negative connotation]     {Dictionary 2nd. Ed.}
+ílhilh
+disgust with pejorative overtones, disgust and disapproval [lh=negative connotation]     {Dictionary 2nd. Ed.}
+ili
+water     {Core Word}
+ilihede
+rice [ili=water + ede=grain]     {Dictionary 2nd. Ed.}
+ilimeda
+lettuce [ili=water + meda=vegetable]     {Dictionary 2nd. Ed.}
+ilisháad
+swim, to swim [ili=water + sháad=to come, to go]     {YML}
+iliwush
+mop [ili=water + wush=broom]     {Dictionary 2nd. Ed.}
+iliyeb
+urine [ili+yeb]     {JP}
+ilu
+hose (for liquids)     {Grammar Updates}
+iluli
+blood vessel     {SH}
+im
+to travel     {Dictionary 2nd. Ed.}
+imedim
+suitcase [im=travel + (e)dim=container]
+in
+to exist     {Dictionary 2nd. Ed.}
+ina
+sleep, to sleep (synonym:áana)     {Dictionary 2nd. Ed.}
+inad
+trousers, pants     {Dictionary 2nd. Ed.}
+ishid
+digit (fingers, toes)     {Dictionary 2nd. Ed.}
+ishida
+gloves, mittens, socks, stockings [ishid=digit (finger, toe) ishid+a]     {Dictionary 2nd. Ed.}
+ishidi
+to chatter [ishish+di]     {Grammar Updates: SH}
+ishish
+to fidget     {Grammar Updates: SH}
+ith
+light     {Dictionary 2nd. Ed.}
+ithedal
+lamp, light, light making object [ith=light + dal=thing]     {Dictionary 2nd. Ed.}
+íthi
+to be high, tall     {Dictionary 2nd. Ed.}
+izh
+but     {Core Word}
+la
+I: pronoun: 1st person: singular: beloved
+láa
+perception [láad=to perceive]     {Dictionary 2nd. Ed.}
+láad
+to perceive [láa=perception]     {Core Word}
+láad óoyonan
+to perceive with the mouth, to taste. Passive tasting. “The dinner tastes good to me.” (see lóoyo, active taste)     {Grammar Updates}
+láad oyanan
+to perceive with the skin, to feel something on your skin, touch. Passive feeling. “The silk feels good to me.” (see dama, active touch)     {Grammar Updates}
+láad oyinan
+to perceive with the eyes, to see, to look. Passive seeing. “I see the flower.” (see il, active seeing)     {Grammar Updates}
+láad oyonan
+to perceive with the nose, to smell. Passive smelling. “The candle smells good to me.” (see shu, active smell)     {Grammar Updates}
+láad oyunan
+to perceive with the ears, to hear. Passive hearing. “The band sounds good to me.” (see ma, active listen)     {Grammar Updates}
+láadá
+perceiver, the one who perceives [láa=perception]     {Dictionary 2nd. Ed.}
+Láadan
+[perception language]
+láadom
+to recognize [láa=perception + dom=remember]     {SH}
+láahomá
+perception teacher [láa=perception + (h)omá=teacher]     {JLP}
+láashod
+meditation room, perception room, room where one goes to meditate and attain new perceptions of the world and themselves [láa=perception + shod=room]     {JLP}
+ladinime
+to interact, interacting     {Grammar Updates}
+laheb
+spice     {Dictionary 2nd. Ed.}
+Lahila
+Holy-One, Deity     {Dictionary 2nd. Ed.}
+lal
+milk     {Dictionary 2nd. Ed.}
+lalal
+mother’s milk     {Dictionary 2nd. Ed.}
+lalen
+guitar     {Dictionary 2nd. Ed.}
+lalewida
+to be pregnant joyfully [lawida=to be pregnant]     {Dictionary 2nd. Ed.}
+lali
+rain, to rain [ili=water]     {Dictionary 2nd. Ed.}
+lalidáan
+poem [lali+dáan]     {Grammar Updates}
+lalidáaná
+poet [lalidáan+á]
+lalilom
+sound of rain on the roof [lali=rain + lom=song]     {Grammar Updates}
+lalimilom
+sound of rain on leaves [lali=rain + mi=leaf + lom=song]
+lalom
+to sing     {Grammar Updates}
+lam
+health, to be healthy     {Dictionary 2nd. Ed.}
+lámáhel
+to sculpt, carve [lámá+el]     {Grammar Updates}
+lámála
+to caress, stroke     {Dictionary 2nd. Ed.}
+lami
+number, numeral     {Grammar Updates: SH}
+lamith
+to count     {Grammar Updates: SH}
+lamithá
+accountant [lamith=to count + -á=doer]     {Grammar Updates: SH}
+lan
+we: pronoun: 1st person: many: beloved
+lan
+friend     {Dictionary 2nd. Ed.}
+lanemid
+dog [lan=friend + mid=creature]     {Dictionary 2nd. Ed.}
+lash
+indifference     {Dictionary 2nd. Ed.}
+lath
+to be celibate by choice     {Dictionary 2nd. Ed.}
+lawida
+to be pregnant     {Dictionary 2nd. Ed.}
+lawith
+saint [Lahila=Holy-One + with=person]     {Dictionary 2nd. Ed.}
+laya
+to be red     {Dictionary 2nd. Ed.}
+layun
+to be orange     {Dictionary 2nd. Ed.}
+lazh
+we: pronoun: 1st person: several: beloved
+le
+I: pronoun: 1st person: singular: neutral
+leb
+enemy     {Dictionary 2nd. Ed.}
+led
+harmony in the home     {YML}
+léeli
+jonquil, daffodil, narcissus     {Dictionary 2nd. Ed.}
+lehina
+lilac (the flower, bush)     {Dictionary 2nd. Ed.}
+lel
+seaweed     {Dictionary 2nd. Ed.}
+léli
+to be yellow     {Dictionary 2nd. Ed.}
+lelith
+algae     {SH}
+lema
+to be gentle     {Dictionary 2nd. Ed.}
+lemadama
+to cuddle [lema=gentle + dama=touch]     {Grammar Updates: AH}
+lemamid
+deer [lema=gentle + mid=creature]     {Grammar Updates}
+lemamidid
+stag, male deer [lema=gentle + mid=creature + -id=male]
+len
+we: pronoun: 1st person: many: neutral
+lenedi
+to us [len=1st person, many neutral + -(e)di=goal case marker]
+leneth
+us (many): pronoun. 1st person, many, neutral, object [len=1st person, many neutral + -(e)th=object case marker]
+lenetha
+our (by reason of birth) [len=we-many + -(e)tha=posessive suffix, by reason of birth]
+lenetho
+our [len=we-many + -(e)tho=posessive suffix, other]
+lenethoth
+our (other, object) [len=1st person, many neutral + -(e)tho=possessive (other) + -th=object case marker]
+leth
+me: pronoun, 1st person, singular, neutral, object [le=I + -th=object marker]
+lewidan
+to be pregnant for the first time [lawida=to be pregnant]     {Dictionary 2nd. Ed.}
+leyan
+to be brown     {Dictionary 2nd. Ed.}
+leyi
+to be blue     {Dictionary 2nd. Ed.}
+leyidalatham
+blueberry [leyi=blue + dala=plant + tham=circle]
+leyóo
+myself: 1st person, singular, neutral, reflexive pronoun
+leyóon
+ourselves: 1st person, many, neutral, reflexive pronoun
+leyóozh
+ourselves: 1st person, several, neutral, reflexive pronoun
+lezh
+we: pronoun: 1st person, several, neutral
+li
+I: pronoun, 1st person, singular, honored
+líithi
+to be white     {Dictionary 2nd. Ed.}
+líithin
+to be gray     {Dictionary 2nd. Ed.}
+lila
+to female-sexual-act     {Dictionary 2nd. Ed.}
+lilahá
+lover (female only – not used to refer to males) [lila=to female sexual act + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+lilathun
+massage (noun and verb)     {CF}
+lili
+to be wet [lil=water]     {Core Word}
+liliháaláa
+labia majora & minora [lili+áalaá]     {JP}
+limlim
+bell [onomatopoeia]     {Dictionary 2nd. Ed.}
+lin
+we: pronoun, 1st person, many, honored
+liri
+to be colored, to have color     {Core Word}
+lish
+to lightning     {Dictionary 2nd. Ed.}
+lishenal
+vividly [lishe+nal]
+lishid
+to sign (as in ASL)     {Dictionary 2nd. Ed.}
+lishidá
+signer (as in ASL) [lishid=to sign + -á-suffix for doer]     {Dictionary 2nd. Ed.}
+lith
+a thought, to think     {Dictionary 2nd. Ed.}
+lithewil
+hypothesis [lith=to think + Wil…=let there be]     {Dictionary 2nd. Ed.}
+liyen
+to be green     {Dictionary 2nd. Ed.}
+lizh
+we: pronoun, 1st person, several, honored
+lo
+to rejoice     {Dictionary 2nd. Ed.}
+lob
+to fill, fill up     {Dictionary 2nd. Ed.}
+lod
+household     {Dictionary 2nd. Ed.}
+lóda
+to be pregnant wearily [lawida=to be pregnant]     {Dictionary 2nd. Ed.}
+lohil
+to watch internally     {Grammar Updates: SH}
+lol
+a feeling of: community, togetherness, sisterhood, fellowship, belonging, cohesiveness; a group of people gathered with the intention of creating togetherness, sisterhood, fellowship, belonging, community, cohesiveness; different from a city or a general gathering of people because “lol” implies an intention to create a feeling of cohesiveness within the group. (see lolh)     {JLP}
+loláad
+to perceive internally, to feel a mental state or emotion, perceive with the heart (metaphorically). Passive internal feeling. “I feel sad.” (see náril, active internal feeling)     {Dictionary 2nd. Ed.}
+loláad lhohoth
+to be ashamed, to perceive one’s shame [loláad=to perceive internally + lhoho=shame + -th =suffix for object]     {Dictionary 2nd. Ed.}
+loláad óoyanan
+to sense, be aware of     {Grammar Updates}
+lolehoth
+a community place, building and grounds of a place intended to nurture the needs of the people who belong [lol=community + (e)hoth=place]     {JLP}
+lolh
+an oppressive “lol”; a negative sense of community, togetherness, sisterhood, fellowship, belonging, cohesiveness; you “belong” but to your severe detriment, for instance being forced to give up valued aspects of yourself to be accepted by the community. (see lol)     {JLP}
+lolin
+to gather, assemble, gathering, assembly (said of people)     {Dictionary 2nd. Ed.}
+lolin
+rocking chair     {Dictionary 2nd. Ed.}
+lom
+song     {Core Suppliment}
+lometha
+song that belongs to her by birth [lom=song + -(e)tha=possessive by reason of birth]
+lóolo
+to be slow     {Core Word}
+lóothi
+to be black and white     {Dictionary 2nd. Ed.}
+lóoyo
+to taste. Active tasting. “I am tasting the batter.” (see láad óoyonan, passive taste)     {Grammar Updates}
+lorolo
+thunder     {Dictionary 2nd. Ed.}
+losh
+money, credit     {Dictionary 2nd. Ed.}
+loshá
+banker [losh=money + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+loshebelid
+bank (financial) [losh=money + belid=house]     {Dictionary 2nd. Ed.}
+loshehalid
+auction
+loth
+information     {Dictionary 2nd. Ed.}
+lothel
+to know (not of people) [loth=information]     {Dictionary 2nd. Ed.}
+lowitheláad
+to feel, as if directly, another’s feelings (pain/joy/ anger/grief/surprise/ etc.); to be empathetic, without the separation implied in empathy [lo + with=person + láad=to perceive]     {Dictionary 2nd. Ed.}
+loyada
+to yearn, yearn for     {Grammar Updates: SH}
+loyan
+intuition     {Grammar Updates: SH}
+loyo
+to be black     {Dictionary 2nd. Ed.}
+loyodalatham
+blackberry [loyo=black + dala=plant + tham=circle]
+loyu
+to be dark-colored     {AH}
+lu
+please, polite phrase     {Dictionary 2nd. Ed.}
+lub
+poultry, fowl (chicken, duck, goose)     {Core Suppliment}
+luben
+map     {Dictionary 2nd. Ed.}
+lud
+debt     {Dictionary 2nd. Ed.}
+ludá
+debtor, person in debt
+ludi
+to be female [lu+di]     {SH}
+ludihá
+female (noun)     {SH}
+luhili
+blood     {Grammar Updates: SH}
+lul
+vagina     {Dictionary 2nd. Ed.}
+lula
+to be purple     {Dictionary 2nd. Ed.}
+lulin
+cradle [lul=vagina] [lul+lin]     {Dictionary 2nd. Ed.}
+lush
+mystery     {Dictionary 2nd. Ed.}
+Lushede
+deity, goddess (informal address)     {Dictionary 2nd. Ed.}
+lushimá
+lesbian, homosexual female     {SH}
+luth
+to rock (of babies)     {Dictionary 2nd. Ed.}
+lúul
+guardian     {Dictionary 2nd. Ed.}
+luwili
+birth-blood     {SH}
+lha
+sin [lh=negative connotation]     {Dictionary 2nd. Ed.}
+lhada
+to laugh at; to scorn; to ridicule, scorn, ridicule [lh- =pejorative + ada=laugh]     {AB}
+lheb
+enemy, with pejorative overtones [leb=enemy + lh=negative overtones]     {Dictionary 2nd. Ed.}
+lhebe
+hatred     {Grammar Updates: MLM}
+lhebe
+she/it/he: pronoun, 3rd person, singular, despised
+lheben
+they: pronoun, 3rd person, many, despised
+lhebezh
+they: pronoun, 3rd person, several, despised
+lhed
+discord in the home [lh=negative connotation]     {Dictionary 2nd. Ed.}
+lhele
+I: pronoun, 1st person, singular, despised
+lhelen
+we: pronoun, 1st person, many, despised
+lhelezh
+we: pronoun, 1st person, several, despised
+lhene
+you: pronoun, 2nd person, singular, despised
+lhenen
+you: pronoun, 2nd person, many, despised
+lhenezh
+you: pronoun, 2nd person, several, despised
+lhezhub
+noxious insect [lh=negative connotation + zhub=insect]     {Dictionary 2nd. Ed.}
+lhobom
+to rape     {Grammar Updates: MLM}
+lhoho
+shame [lh=negative connotation]     {Dictionary 2nd. Ed.}
+lhu
+poison, to poison [lh=negative connotation]     {Dictionary 2nd. Ed.}
+lhud
+debt, with pejorative overtones [lh=negative connotation + lud=debt]     {Dictionary 2nd. Ed.}
+ma
+to hear, to listen, to listen to, to hear. Active hearing. “I am listening for the buzzer.” (see láad oyunan, passive hear)     {Dictionary 2nd. Ed.}
+máa
+egg     {Core Suppliment}
+máan
+salt     {Dictionary 2nd. Ed.}
+máanan
+to be salty
+mad
+to hide an emotion or aspect of self (<mirror image of dam>)     {JP}
+madoni
+to plant     {SH}
+maha
+desire (sexual)     {Dictionary 2nd. Ed.}
+mahanal
+desiringly, lustfully (NOT a negative term) [maha=desire (sexual) + -nal=suffix for manner]     {Dictionary 2nd. Ed.}
+mahela
+creative urge     {SH}
+mahin
+cooking pot     {Dictionary 2nd. Ed.}
+mahina
+flower     {Dictionary 2nd. Ed.}
+mal
+nut-tree     {Dictionary 2nd. Ed.}
+malu
+salt marsh     {SH}
+mar
+absence, to be absent     {SH}
+maradal
+hole, gap [mar=absence + radal=nothing]     {SH}
+mari
+island     {Dictionary 2nd. Ed.}
+math
+building     {Dictionary 2nd. Ed.}
+mathom
+knick-knack, useless object (Tolkien loanword)     {SH}
+mathul
+mother (intimate informal term, but not Mama) [ma=to listen + thul=parent] (see: ethul, shathul)     {Dictionary 2nd. Ed.}
+mazh
+car, automobile     {Dictionary 2nd. Ed.}
+meda
+vegetable     {Dictionary 2nd. Ed.}
+medalayun
+carrot [meda=vegetable + layun=orange]     {Dictionary 2nd. Ed.}
+meén
+sugar     {CH}
+meénan
+to be sweet     {Dictionary 2nd. Ed.}
+meénaná
+sweetener [meénan=to be sweet + -á=suffix for doer]     {CH}
+méesh
+pleasure (not said of sexual pleasure)
+méeshim
+pleasure (sexual)
+méhéna
+compassion despite negative circumstances [ména, mína, móna, múna=compassion]     {Dictionary 2nd. Ed.}
+mel
+paper     {Dictionary 2nd. Ed.}
+mela
+ocean, sea     {Dictionary 2nd. Ed.}
+meláanin
+birch tree [mel=paper + yáanin=tree]     {SH}
+melahá
+ocean-dweller [mela=ocean + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+meloth
+evidence [me-=plural marker + loth=information]     {Dictionary 2nd. Ed.}
+memazh
+train [me-=plural marker + mazh=car]     {Dictionary 2nd. Ed.}
+ména
+compassion for good reasons [méhéna, mína, móna, múna=compassion]     {Dictionary 2nd. Ed.}
+menedebe
+to be many [me-=plural marker + nedebe=to be few] (never change form or add case marker)     {Core Word}
+menedebenil
+among (many) [menedebe=many + nil=inside]     {AB}
+menedebosh
+bundle of sticks, faggot (noun) [me- =plural + nedebosh=stick]     {AB}
+merod
+billion (1,000,000,000) [me-=plural marker + rod=million (1,000,000)]     {Dictionary 2nd. Ed.}
+mesh
+across, to be across     {Dictionary 2nd. Ed.}
+methid
+rope [me-=plural marker + thid=string]     {CH}
+méwith
+crowd [me-=plural marker + with=person]     {Dictionary 2nd. Ed.}
+mezh
+powder     {CH}
+mezhel
+to grind [mezh=powder + el=to create]     {CH}
+mi
+leaf, as in leaf of a tree, not a page in a book     {Core Suppliment}
+mid
+creature, any animal     {Core Word}
+midemath
+stable [mid=creature + math=building]     {Dictionary 2nd. Ed.}
+miháabe
+page (of book) [mi=leaf + (h)áabe=book]     {Grammar Updates: SH}
+mihí
+to be small (area)     {AB}
+míi
+amazement, to be amazed     {Dictionary 2nd. Ed.}
+míili
+radiance [míi=to be amazed]     {Dictionary 2nd. Ed.}
+míirile
+awed silence [míi=amazed + rile=silence]     {TB}
+mime
+to ask     {Core Word}
+miméne
+coverings, bedding     {Dictionary 2nd. Ed.}
+min
+eating utensil     {Dictionary 2nd. Ed.}
+mina
+to move     {Core Word}
+mína
+compassion for no reason [ména, méhéna, móna, múna=compassion]     {Dictionary 2nd. Ed.}
+minidibi
+et cetera     {Grammar Updates: SH}
+miwith
+town, city [with=person]     {Dictionary 2nd. Ed.}
+miwithá
+city-dweller [miwith=city + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+mo
+furniture     {Grammar Updates}
+modem
+modem [loanword]     {Dictionary 2nd. Ed.}
+modi
+to be ugly     {Dictionary 2nd. Ed.}
+móna
+compassion for foolish reasons [méhéna, ména, mína, múna=compassion]     {Dictionary 2nd. Ed.}
+mud
+mushroom     {Dictionary 2nd. Ed.}
+muda
+pig     {Core Suppliment}
+mudahéthe
+pig-clean, the state of your teenager’s room, to be used when teenager says “it’s clean, mom!”, and mom responds “well, yeah, pig-clean!” (with apologies to poor slandered pigs, who we know are very clean animals) [muda=pig + (h)éthe=clean] (See also: éthe, háawithéthe, huhéthe, onidahéthe, thóohéthe)     {JLP}
+muhum
+scissors [(hum+<mirror image>)]     {SH}
+múna
+compassion for bad reasons [méhéna, ména, mína, móna=compassion]     {Dictionary 2nd. Ed.}
+na
+you: pronoun, 2nd person, singular, beloved
+náal
+night     {Dictionary 2nd. Ed.}
+nab
+bramble     {Dictionary 2nd. Ed.}
+náheb
+to decrease [ná+heb]     {EB}
+nahin
+to become [na=to start to + in=exist]     {Grammar Updates: SH}
+nan
+you: pronoun, 2nd person, many, beloved
+nanáal
+sunset [na=to start to + náal=night]     {SH}
+náraheb
+to increase [ná+raheb]     {EB}
+náril
+to feel internally, to fix your internal attention actively upon something, to-continue-to-present-time. Active internal feeling. “I am feeling angry.” (see loláad, passive internal feeling)
+nárilim
+to quest internally [náril=to feel + im=travel]     {SH}
+nasháal
+dawn, sunrise [na=to start to + sháal=day]     {SH}
+nath
+price     {Dictionary 2nd. Ed.}
+natha
+your: pronoun, 2nd person, singular, beloved, by reason of birth: [na=2nd person, singular, beloved + -tha=possessive by reason of birth]
+nathá
+buyer (professional)
+náwí
+grow, growth [ná- =continue to + wí=life]     {AB}
+naya
+to take care of, nurture     {Core Word}
+nayadi
+blessing, general term (ath=benison)     {Grammar Updates}
+nayadithal
+encouragement, to encourage     {Grammar Updates}
+nayahá
+care-giver, caretaker of people [naya=to take care of + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+nazh
+you: pronoun, 2nd person, severa,: beloved
+ne
+you: pronoun, 2nd person, singular, neutral
+neda
+only [nede=one]     {Dictionary 2nd. Ed.}
+nede
+one, (1)     {Core Word}
+néde
+to want     {Core Word}
+nedebe
+to be few, to be several [but not many] (never change form or add case marker)     {Core Word}
+nedebenil
+among (few/several) [nedebe=few/several + nil=inside]     {AB}
+nedebosh
+stick (noun) [nede=one + bosh=wood]     {AB}
+nedeloth
+fact [nede=l + loth=information]     {Dictionary 2nd. Ed.}
+nédeshub
+intent [néde+shub]     {Dictionary 2nd. Ed.}
+nédeshubel
+motivation [néde=to want + shub=to do + el=to make]     {SH}
+nedethab
+eleven (11) [nede=l + thab=l0]     {Dictionary 2nd. Ed.}
+nedeya
+first [nede=one + -ya=suffix for time]     {AB&CH}
+née
+to be alien     {Dictionary 2nd. Ed.}
+néehá
+alien [née=to be alien + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+nehena
+contentment despite negative circumstances [nena, nina, nona, nuna=contentment]     {Dictionary 2nd. Ed.}
+nem
+pearl     {Dictionary 2nd. Ed.}
+nemeháalish
+clitoris [nem+háalish]     {Grammar Updates: RB/BG}
+nen
+you: pronoun, 2nd person, many, neutral
+nena
+contentment for good reasons [nehena, nina, nona, nuna=contentment]     {Dictionary 2nd. Ed.}
+neneth
+you (many): pronoun, 2nd person, many, neutral, object [nen=you + -th=object marker]
+neril
+wait, to wait     {SH}
+neth
+you: pronoun, 2nd person, singular, neutral, object [ne=you + -th=object marker]
+neyóo
+yourself: pronoun, 2nd person, singular, neutral [ne=you + -yóo=reflexive marker]
+neyóon
+yourselves (many): pronoun, 2nd person, many, neutral [nen=you,many + -yóo=reflexive marker]
+neyóozh
+yourselves (several): pronoun, 2nd person, several, neutral [nezh=you,several + -yóo=reflexive marker]
+nezh
+you: pronoun, 2nd person, several, neutral
+nezheth
+you (several): pronoun. 2nd person, several, neutral, object [nezh=you + -th=object marker]
+ni
+you: pronoun, 2nd person, singular, honored
+ni
+cup     {Dictionary 2nd. Ed.}
+nib
+eight (8)     {Dictionary 2nd. Ed.}
+nibethab
+eighteen (18) [nib=8 + thab=l0]     {Dictionary 2nd. Ed.}
+nil
+inside     {Core Word}
+nilewod
+tampon [nil+wod]     {Grammar Updates: SH}
+nime
+be willing, will (not future tense)     {AB}
+nin
+you: pronoun, 2nd person, many, honored
+nin
+to cause, causal     {Core Word}
+nina
+contentment for no reason [nehena, nena, nona, nuna=contentment]     {Dictionary 2nd. Ed.}
+niná
+the one responsible [nin=to cause + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+ninálh
+the one to blame [niná=the one responsible + lh=negative connotation]     {Dictionary 2nd. Ed.}
+nish
+weed     {Dictionary 2nd. Ed.}
+nith
+frost     {Dictionary 2nd. Ed.}
+nithedim
+refrigerator [nith=frost + dim=container]     {Dictionary 2nd. Ed.}
+nithedimethóo
+refrigerator guest, a guest who shows up unannounced, comes on in & helps herself to whatever’s in the ‘fridge — and that’s a good thing [nithedim=refrigerator + (e)thóo=guest] (See also: thóo, áathethóo, shineshidethóo, widadithethóo)     {AB}
+nizh
+you: pronoun, 2nd person, several, honored
+nodal
+edge (non-sharp)     {SH}
+nohadal
+to hem [no-=to finish + (h)adal=sew]     {Grammar Updates: SH}
+nohodáath
+rectum [no-=to finish + hodáath=bowels]     {SH}
+nol
+on, upon     {Grammar Updates}
+noline
+angel     {Dictionary 2nd. Ed.}
+nolob
+to become full [no-=prefix implies completion + lob=to fill up, to fill]     {Dictionary 2nd. Ed.}
+nona
+contentment for foolish reasons [nehena, nena, nina, nuna=contentment]     {Dictionary 2nd. Ed.}
+nonede
+a, the final one, the last one [no-=prefix implies completion + nede=one, 1]     {Dictionary 2nd. Ed.}
+nóowid
+to be big and little     {Dictionary 2nd. Ed.}
+nori
+to send     {Dictionary 2nd. Ed.}
+nosháad
+arrival, to arrive [no-=prefix implies completion + sháad=to come, go]     {Dictionary 2nd. Ed.}
+nótháa
+to cease to thrive [no-=prefix implies completion + tháa=to thrive, to do well]     {Dictionary 2nd. Ed.}
+nu
+here     {Core Suppliment}
+nub
+mode     {Dictionary 2nd. Ed.}
+núháam
+to feel oneself cherish, cared for, nurtured by someone     {Dictionary 2nd. Ed.}
+nuna
+contentment for bad reasons [nehena, nena, nina, nona=contentment]     {Dictionary 2nd. Ed.}
+nuthul
+orphan [thul=parent]     {Dictionary 2nd. Ed.}
+núu
+there [nu=here]     {Dictionary 2nd. Ed.}
+o
+around     {Core Word}
+oba
+body     {Core Suppliment}
+obadom
+to body-remember (like remembering how to ride a bicycle) [oba=body + dom=remember]     {Grammar Updates: SH}
+obahéda
+bodily secretion [oba+héda]     {JP}
+obahéthe
+a clean body, to clean ones body [oba=body + (h)éthe =clean] (see obahéthewod, obahéthethib)     {JLP}
+obahéthethib
+shower, to take a shower [oba=body + (h)éthe=clean + thib=stand] (see obahéthe, obahéthewod)     {JLP}
+obahéthewod
+bath, to take a bath, bathe [oba=body + (h)éthe=clean + wod=sit] (see obahéthe, obahéthethib)     {JLP}
+obe
+through     {Core Word}
+obed
+cause, reason     {Dictionary 2nd. Ed.}
+obedi
+to learn a skill, to body-learn [oba=body + bedi=learn]     {SH}
+obée
+during (I work during the night. -> Bíi hal le náaleya obée wa.)     {Core Word}
+obeham
+altar     {Grammar Updates: SH}
+obeth
+neighbor     {Dictionary 2nd. Ed.}
+obeyal
+gold     {Dictionary 2nd. Ed.}
+obom
+condom     {YML}
+od
+cloth     {Dictionary 2nd. Ed.}
+oda
+arm (the body part)     {Dictionary 2nd. Ed.}
+odá
+weaver [od+á]     {Dictionary 2nd. Ed.}
+odama
+lip, lips (of the mouth)     {SH}
+odámála
+to caress with the lips, kiss [odama=lips + lámála=caress]     {SH}
+odayáaninetha
+branch [oda=arm + yáanin=tree + -tha=suffix for possession by reason of birth]     {Dictionary 2nd. Ed.}
+odith
+tongue [o=around + dith=voice]     {SH}
+odithámála
+to caress with the tongue [odith=tangue + lámála=caress]     {Grammar Updates: SH}
+odobeyal
+cloth-of-gold [od =cloth + obeyal=gold]     {AB}
+ódon
+cheese     {Dictionary 2nd. Ed.}
+oham
+love for that which is holy     {Dictionary 2nd. Ed.}
+ohamedi
+prayer [oham=love for that which is holy + di=to say, speak]     {Dictionary 2nd. Ed.}
+ohehena
+respect despite negative circumstances [ohena, ohina, ohona, ohuna=respect]     {Dictionary 2nd. Ed.}
+ohena
+respect for good reasons [ohehena, ohina, ohona, ohuna=respect]     {Dictionary 2nd. Ed.}
+ohina
+respect for no reason     {Dictionary 2nd. Ed.}
+Oho
+you’re welcome (polite phrase)     {Dictionary 2nd. Ed.}
+ohona
+respect for foolish reasons [ohehena, ohena, ohina, ohuna=respect]     {Dictionary 2nd. Ed.}
+ohuna
+respect for bad reasons [ohehena, ohena, ohina, ohona=respect]     {Dictionary 2nd. Ed.}
+ol
+to store     {Dictionary 2nd. Ed.}
+olanin
+to practice (ulanin=to study)     {SH}
+olim
+paradise, heaven     {Dictionary 2nd. Ed.}
+olimeha
+in heaven [olim=heaven + -(e)ha=place case marker]
+olin
+forest, woods     {Dictionary 2nd. Ed.}
+olob
+blow, strike, hit, trauma     {Dictionary 2nd. Ed.}
+olobeshara
+depression as result of major trauma [olob=trauma + (e)shara=grief]     {DK}
+oloth
+skill     {SH}
+olowod
+group     {Dictionary 2nd. Ed.}
+om
+to teach     {Dictionary 2nd. Ed.}
+oma
+hand     {Core Word}
+omá
+teacher [om=to teach + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+omamid
+ape [oma=hand + mid-creature]     {Dictionary 2nd. Ed.}
+omid
+horse [o=around + mid=creature]     {Dictionary 2nd. Ed.}
+on
+head (body part)     {Dictionary 2nd. Ed.}
+ona
+face (the body part)     {Core Suppliment}
+onabel
+mask, to mask     {Grammar Updates}
+onelal
+cream [on=head + lal=milk]     {Dictionary 2nd. Ed.}
+onethud
+horn; antler (noun) [on=head + (e)thud=bone]     {AB}
+onida
+family     {Core Word}
+onidahéthe
+family-clean, the usual state of affairs [onida=family + (h)éthe=clean] (See also: éthe, háawithéthe, huhéthe, mudahéthe, thóohéthe)     {CH}
+onin
+nurse     {Dictionary 2nd. Ed.}
+oób
+to jump     {Dictionary 2nd. Ed.}
+óob
+oven     {Dictionary 2nd. Ed.}
+óoba
+leg     {Dictionary 2nd. Ed.}
+óobe
+along
+oódóo
+bridge     {Dictionary 2nd. Ed.}
+óoha
+to be tired, weary     {Core Word}
+óol
+moon     {Core Word}
+óoletham
+coven, worship circle [óol=moon + tham=circle]     {CF}
+óolewil
+menstrual blood [óol=moon + wili=river]     {SH}
+óolewod
+sanitary napkin     {SH}
+óoloó
+moth (butterfly=áalaá pattern using moon=óol)     {SH}
+óom
+to mourn     {Dictionary 2nd. Ed.}
+óoma
+foot (the body part)     {Dictionary 2nd. Ed.}
+óomasháad
+walk; go on/by foot [óoma=foot + sháad=go/come]     {AB}
+óomi
+shoe [óoma=foot]     {Dictionary 2nd. Ed.}
+óosholan
+alone with grief
+óotha
+soul     {Dictionary 2nd. Ed.}
+óothadama
+rapport; also, to experience rapport (AH) [óotha+dama]
+óothanuthul
+spiritual orphanhood, being utterly bereft of a spiritual community [óotha=soul + nuthul=orphan]     {Dictionary 2nd. Ed.}
+óothasháal
+regular self-time (daily, weekly, or monthly)     {SH}
+óowa
+fire     {Core Word}
+óowáanin
+redwood [óowa=fire + yáanin=tree]     {SH}
+óowabo
+volcano [óowa=fire + bo=mountain]     {AB}
+óowabobin
+volcanic crater [óowabo=volcano + bin=bowl]     {AB}
+óowamid
+dragon [óowa=fire + mid=creature]
+óoya
+heart     {Dictionary 2nd. Ed.}
+óoyaáláan
+pulse, heartbeat [óoya=heart + aáláan=wave]     {SH}
+óoyaha oma
+palm of the hand     {Grammar Updates}
+óoyahonetha
+mind [óoya=heart + on=head + -tha=suffix for possession by reason of birth]     {Dictionary 2nd. Ed.}
+óoyasháal
+time of greatest energy each day [óoya=heart + sháal=day]     {SH}
+óoyo
+mouth
+óozh
+comset     {Dictionary 2nd. Ed.}
+óozhá
+comset technician [óozh=comset + -(h)á=suffix for doer]
+osh
+to weave
+osháana
+to menstruate, menstrual, menstruation     {Core Word}
+oshetham
+wreath [osh=weave + (e)tham=circle]
+oth
+to be important     {Dictionary 2nd. Ed.}
+Othe
+Amen, Selah, end of prayer phrase     {Dictionary 2nd. Ed.}
+othel
+to be blessed, holy     {Dictionary 2nd. Ed.}
+othelehoth
+blessed place [othel=blessed + (e)hoth=place]     {JLP}
+owa
+to be warm, hot     {Core Word}
+owáano
+therefore     {Dictionary 2nd. Ed.}
+owahúuzh
+blanket [owa=to be warm + úuzh=sheet bedding]     {Dictionary 2nd. Ed.}
+owe
+dress, gown     {Dictionary 2nd. Ed.}
+owehid
+men’s garment, men’s clothing [owe=dress + -id=suffix for male]     {Dictionary 2nd. Ed.}
+owo
+labia     {SH}
+oya
+skin, flesh     {Dictionary 2nd. Ed.}
+oyabod
+outline, silhouette [oya=skin + bod=line]     {SH}
+oyada
+to itch     {Grammar Updates: SH}
+oyi
+eye     {Dictionary 2nd. Ed.}
+oyimahina
+violet     {Dictionary 2nd. Ed.}
+oyo
+nose
+oyu
+ear     {Dictionary 2nd. Ed.}
+ozh
+dream, to dreav     {Dictionary 2nd. Ed.}
+ozhi
+melon     {Dictionary 2nd. Ed.}
+ra
+no, not (interjection); To make a sentence negative, put “ra” right after the verb.     {Core Word}
+ráahedethi
+to be unable to feel lowitheláad, to be empathically impaired [ra=non- + edethi=to share]     {Dictionary 2nd. Ed.}
+ráahedethilh
+to be unwilling to feel lowitheláad; to be deliberately empathically impaired [ráahedethi=to be unable to feel lowitheláad + lh=negative connotation]     {Dictionary 2nd. Ed.}
+ráalehale
+to be musically or euphonically deprived     {Dictionary 2nd. Ed.}
+ráatham
+command room (for war)     {Dictionary 2nd. Ed.}
+rabalh
+to stink, reek [ra=non- + aba=to be fragrant + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rabalin
+to be young [ra=non- + balin=to be old]     {Dictionary 2nd. Ed.}
+raban
+to take away from [ra=non- + ban=to give]     {Dictionary 2nd. Ed.}
+rabinilh
+gift with strings attached [ra=non- + bini=gift + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rabo
+plain, flat plain [ra=non- + bo=mountain]     {Dictionary 2nd. Ed.}
+rabobosh
+floor [ra=non- + bo=mountain + bosh=wood]     {Dictionary 2nd. Ed.}
+rabohí
+to be long (length)     {AB}
+raboósh
+straight, to be straight [ra-=not + bóosh=curved]     {AB}
+rad
+node     {Dictionary 2nd. Ed.}
+radal
+nothing [ra=non- + dal=thing]     {Dictionary 2nd. Ed.}
+radama
+to non-touch, avoiding touch, to actively refrain from touching [ra=non- + dama=to touch]     {Dictionary 2nd. Ed.}
+radamalh
+to non-touch with evil intent [radama=to non-touch + lh=negative connotation]     {Dictionary 2nd. Ed.}
+radazh
+to be hard, firm     {Dictionary 2nd. Ed.}
+radéela
+non-garden, glitz without beauty, a place that has much flash and glitter and ornament, but no beauty [ra=non- + déela=garden]     {Dictionary 2nd. Ed.}
+raden
+without     {Dictionary 2nd. Ed.}
+radena
+unfriendliness for good reasons [ra=non- + dena=friendliness for good reasons]     {Dictionary 2nd. Ed.}
+radezh
+difficult
+radiídin
+non-holiday, holiday more work that it’s worth, a time allegedly a holiday but actually so much a burden because of work and preparations that it is a dreaded occasion; especially when there are too many guests and none of them help     {Dictionary 2nd. Ed.}
+radimil
+plain, simple, unadorned [ra- =not + dimil=lavish]     {AB}
+radina
+unfriendliness for no reason [ra=non- + dina= friendliness for no reason]     {Dictionary 2nd. Ed.}
+rado
+to be weak [ra=non- + do=to be strong]     {Dictionary 2nd. Ed.}
+radodelh
+non-interface, a situation which has not one single point in common on which to base interaction, often used of personal relationships [ra=non- + dodel=interface + lh= negative connotation]     {Dictionary 2nd. Ed.}
+radona
+unfriendliness for foolish reasons [ra=non- + dona=friendliness for foolish reasons]     {Dictionary 2nd. Ed.}
+raduna
+unfriendliness for bad reasons [ra=non- + duna=friendliness for bad reasons]     {Dictionary 2nd. Ed.}
+raduth
+to non-use, to deliberately deprive someone of any useful function in the world, as in enforced retirement or when a human being is kept as a plaything or a pet [ra=non- + duth=to use]     {Dictionary 2nd. Ed.}
+radutha
+to not-heal, medicine or treatment which does not heal [ra=not + dutha=heal]     {SH}
+raduthahá
+not-healer     {SH}
+raduthahálh
+non-healer with evil intent     {SH}
+raháana
+insomnia [ra=non- + áana=sleep]     {Dictionary 2nd. Ed.}
+rahabelhid
+to exile [ra=non- + habelid=to live, inhabit + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rahabelhidá
+an exile, outcast [rahabelhid=to exile + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+rahadihad
+never [ra=non- + hadihad=always]     {Core Word}
+rahahí
+to be temporally extensive; to be long-lived (time)     {AB}
+rahana
+junk food [ra=non- + ana=food]     {Dictionary 2nd. Ed.}
+rahana
+famine [ra=non- + ana=food]     {Dictionary 2nd. Ed.}
+rahath
+never     {Grammar Updates}
+raheb
+to hoard, a hoard [ra=non- + eb=to buy, sell]     {Dictionary 2nd. Ed.}
+raheb
+up [ra=non- + heb=down]     {Core Word}
+rahed
+gadget, useless non-tool [ra=non- + ed=tool]     {Dictionary 2nd. Ed.}
+rahéeda
+accursed, unholy, to be accursed, to be unholy [ra=non- + héeda=to be sacred]     {Dictionary 2nd. Ed.}
+rahéedan
+to mistranslate [ra=non- + héedan=to translate]     {Dictionary 2nd. Ed.}
+rahéelhedan
+to deliberately mistranslate with evil intent [rahéedan=to mistranslate + lh=give negative connotation]     {Dictionary 2nd. Ed.}
+rahéena
+non-heart-sibling, one so entirely incompatible with another that there is no hope of ever achieving any kind of understanding or anything more than a truce, and no hope of ever making such a one understand why; (does not mean “enemy”) [ra=non- + héena =sibling of the heart]     {Dictionary 2nd. Ed.}
+rahen
+to misunderstand, misunderstanding [ra=not + (h)en=understand]     {YML}
+rahesh
+to be irresponsible [ra=non- + ahesh=to be responsible]     {Dictionary 2nd. Ed.}
+rahéthe
+to be dirty [ra=non- + éthe=to be clean]     {Dictionary 2nd. Ed.}
+rahib
+non-crime, a terrible thing done because it’s necessary but for which there is no blame because there is no choice (never an accident); [ra=non- + ib=crime]     {Dictionary 2nd. Ed.}
+rahil
+to non-attend, ignore, withhold attention [ra=non- + il=pay attention to]     {Dictionary 2nd. Ed.}
+rahilh
+to non-attend, ignore, withhold attention with evil intent [rahil=to withhold attention + lh= gives negative connotation]     {Dictionary 2nd. Ed.}
+rahith
+darkness [ra=non- + ith=light]     {Dictionary 2nd. Ed.}
+rahíya
+to be big, large [ra=non- + híya=to be small]     {Dictionary 2nd. Ed.}
+rahíyamesh
+wide [ra- =not + híyamesh=narrow]     {AB}
+rahobeth
+non-neighbor, one who lives nearby but does not fulfill a neighbor’s role (not necessarily pejorative) [obeth=neighbor]     {Dictionary 2nd. Ed.}
+rahobeyal
+fool’s gold [ra=non- + obeyal=gold]     {Dictionary 2nd. Ed.}
+rahol
+to waste, squander [ra=non- + o1=to store]     {Dictionary 2nd. Ed.}
+rahom
+to non-teach, to deliberately fill students’ minds with empty data or false information; (can be used only of persons in a teacher/student relationship); [ra=non- + om=to teach]     {Dictionary 2nd. Ed.}
+rahoth
+nowhere [ra=non- + hoth=place]     {Dictionary 2nd. Ed.}
+rahowa
+to be cold [ra=non- + owa=to be warm]     {Dictionary 2nd. Ed.}
+rahu
+to be closed [ra=non- + u=to be open]     {Dictionary 2nd. Ed.}
+rahub
+irritant substance [ra=non- + ub=balm]     {Dictionary 2nd. Ed.}
+rahulh
+slave [ra=non- + hu=ruler + lh=negative con notation]     {Dictionary 2nd. Ed.}
+raláad
+to non-perceive [ra=non- + láad=to perceive]     {Dictionary 2nd. Ed.}
+raláadá
+non-perceiver; one who fails to perceive [raláad=to non-perceive + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+raláadálh
+non-perceiver, one who fails to perceive deliberately and with evil intent [raláadá=non-perceiver + lh=negative connotation]     {Dictionary 2nd. Ed.}
+ralaheb
+something utterly spiceless, bland, “like warm spit”, repulsively bland and blah [ra=non- + laheb=spice]     {Dictionary 2nd. Ed.}
+ralali
+drought [ra=non- + lali=rain]     {Dictionary 2nd. Ed.}
+ralámálha
+tactile deprivation [ra=non- + lámála=to caress + lh=negative connotation]     {Dictionary 2nd. Ed.}
+ralath
+to be celibate not by choice     {Dictionary 2nd. Ed.}
+ralh
+rape; to rape     {Grammar Updates}
+ralhewedeth
+to obfuscate [ra=non- + wedeth=to be clear + lh=negative connotation]     {Dictionary 2nd. Ed.}
+ralhoham
+love for evil [ra=non- + oham=love for that which is holy]     {Dictionary 2nd. Ed.}
+raliha
+pitcher     {Dictionary 2nd. Ed.}
+ralili
+to be dry [ra=not + lili=wet]     {YML}
+ralith
+to deliberately refrain from thinking about something, to wall it off in one’s mind by deliberate act [ra=non- + lith=to think]     {Dictionary 2nd. Ed.}
+ralod
+anarchy [ra=non- + lod=household]     {Dictionary 2nd. Ed.}
+ralóolo
+to be fast [ra=non- + lóolo=to be slow ]     {Dictionary 2nd. Ed.}
+ralorolo
+non-thunder, much talk and commotion from one (or more) with no real knowledge of what they’re talking about or trying to do, something like “hot air” but more so [ra=non+ lorolo=thunder]     {Dictionary 2nd. Ed.}
+ralosh
+bankruptcy [ra=non- + losh=money]     {Dictionary 2nd. Ed.}
+raloth
+ignorance [ra=non- + loth-information]     {Dictionary 2nd. Ed.}
+ram
+presence     {Dictionary 2nd. Ed.}
+ramaha
+absence of sexual desire [ra=non- + maha=desire (sexual)]     {Dictionary 2nd. Ed.}
+raména
+callousness for good reasons, disregard, to be callous [ra= non- + ména=compassion for good reasons]     {Dictionary 2nd. Ed.}
+ramihí
+to be large (area)     {AB}
+ramíili
+evil (theological) [ra=non- + míili=radiance]     {Dictionary 2nd. Ed.}
+ramíilide
+from evil (theological) [ra=non- + míili=radiance + -de=source case marker]     {Dictionary 2nd. Ed.}
+ramime
+to refrain from asking, out of courtesy or kindness [ra=non- + mime=to ask]     {Dictionary 2nd. Ed.}
+ramimelh
+to refrain from asking, with evil intent; especially when it is clear that someone badly wants the other to ask [ramime=to refrain from asking + lh=give negative connotation]     {Dictionary 2nd. Ed.}
+ramína
+callousness for no reason, disregard, to be callous [ra-non- + mína=compassion for no reason]     {Dictionary 2nd. Ed.}
+ramóna
+callousness for foolish reasons, disregard, to be callous [ra=non- + móna=compassion for foolish reasons]     {Dictionary 2nd. Ed.}
+ramúna
+callousness for bad reasons, disregard, to be callous [ra=non- + múna=compassion for bad reasons]     {Dictionary 2nd. Ed.}
+ran
+typewriter     {Dictionary 2nd. Ed.}
+rana
+drink, beverage (rilin=to drink)     {Core Word}
+ranahá
+drinker [rana=drink + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+ranahálh
+alcoholic [ranahá=drinker + lh=negative connotation]     {Dictionary 2nd. Ed.}
+ranal
+no how, in no way [ra=non- + -nal=suffix for manner]     {Dictionary 2nd. Ed.}
+ranem
+non-pearl, an ugly resentment or situation which worsens & festers, an ugly thing one builds layer by layer as an oyster does a pearl, such as a festering hatred to which one pays attention [ra=non+ nem=pearl]     {Dictionary 2nd. Ed.}
+raneran
+printer, computer printer [ran=typewriter]     {Dictionary 2nd. Ed.}
+rani
+non-cup, a hollow accomplishment, something one acquires or receives or accomplishes but is empty of all satisfaction [ra=non- + ni=cup]     {Dictionary 2nd. Ed.}
+ranil
+outside, out [ra=non- + nil=inside]     {Core Word}
+ranime
+be unwilling [ra=not + nime=willing]     {AB}
+ranonede
+to be infinite     {EB}
+rarilh
+to deliberately refrain from recording; for example, the failure throughout history to record the accomplishments of women [ra=non- + ri=to record, keep records + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rarulh
+non-synergy, that which when combined only makes things worse, less efficient, etc. [ra=non- + ru=synergy + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rasha
+discord (not discord in the home) [ra=non- + sha=harmony]     {Dictionary 2nd. Ed.}
+rashe
+to torment [ra=non- + she=comfort]     {Dictionary 2nd. Ed.}
+rasheb
+resistence to change [ra=non- + sheb=change]     {Dictionary 2nd. Ed.}
+rashelh
+to torture [rashe=to torment + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rashelith
+worry [ra=not + she=to comfort + lith=think]
+rashenidal
+bureaucracy [ra=non- + shenidal=network]     {Dictionary 2nd. Ed.}
+rashida
+non-game, a cruel “playing” that is a game only for the dominant “player” with the power to force others to participate [ra=non- + shida=game]     {Dictionary 2nd. Ed.}
+rashim
+celibacy [ra=non- + shim=to sexual act]     {Dictionary 2nd. Ed.}
+rashimá
+a celibate [rashim=celibacy + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+rashon
+argument, quarrel, to argue, to quarrel, not used of an ‘argument’ in a theory or an equation or a proposition [ra-non- + shon=peace]     {Dictionary 2nd. Ed.}
+rashonelh
+war [rashon=quarrel + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rashonelhá
+attacker, aggressor [rashonelh=war + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+rathal
+to be bad [ra=non- + thal=to be good]     {Dictionary 2nd. Ed.}
+rathena
+despair for good reasons [ra=non- + thena=joy for good reasons]     {Dictionary 2nd. Ed.}
+rathina
+despair for no reason [ra=non- + thina=joy for no reason]     {Dictionary 2nd. Ed.}
+rathom
+non-pillow, one who lures another to trust and rely on them but has no intention of following through, a “lean on me so I can step aside and let you fall” person [ra=non- + thom=pillow]     {Dictionary 2nd. Ed.}
+rathona
+despair for foolish reasons [ra=non- + thona=joy for foolish reasons]     {Dictionary 2nd. Ed.}
+rathóo
+non-guest, someone who comes to visit knowing perfectly well that they are intruding and causing difficulty [ra=non- + thóo=guest]     {Dictionary 2nd. Ed.}
+rathuna
+despair for bad reasons [ra=non- + thuna=joy for bad reasons]     {Dictionary 2nd. Ed.}
+rawan
+chest (body part)     {Dictionary 2nd. Ed.}
+rawedeth
+to be murky, obscure [ra=non- + wedeth=to be clear]     {Dictionary 2nd. Ed.}
+raweshalh
+non-gestalt, a collection of parts with no relationship other than coincidence, a perverse choice of items to call a set; especially when used as “evidence” [ra=non- + wesha=gestalt + lh=negative connotation]     {Dictionary 2nd. Ed.}
+rawihi
+emotionlessness (NOT a complimentary term) [ra=non- + wihi=emotion]     {Dictionary 2nd. Ed.}
+rawíi
+to be dead [ra=non- + wíi=to be alive]     {Dictionary 2nd. Ed.}
+rawith
+nobody [ra=non- + with=person]     {Dictionary 2nd. Ed.}
+rawoho
+none, not at all [ra=non- + woho=all]     {Dictionary 2nd. Ed.}
+rawóobaná
+barren one, to be barren [ra-non- + wóobaná=birth giver]     {Dictionary 2nd. Ed.}
+rayide
+anorexia, to be anorexic [ra=non- + yide=hunger]     {Dictionary 2nd. Ed.}
+rayil
+above, to be above [ra=non- + yil=under]     {Core Word}
+Rayilesháal
+Friday (Above Day) [rayil=above + sháal=day]     {Dictionary 2nd. Ed.}
+rayom
+danger [ra=non- + yom=safe]     {Dictionary 2nd. Ed.}
+razh
+vehicle     {Dictionary 2nd. Ed.}
+redeb
+to find     {Dictionary 2nd. Ed.}
+réele
+harbor     {Dictionary 2nd. Ed.}
+ren
+rug, carpet     {Dictionary 2nd. Ed.}
+resh
+wasp     {Dictionary 2nd. Ed.}
+ri
+to record, to keep records     {Dictionary 2nd. Ed.}
+ridadem
+camera, VCR, camcorder [ri=to record + dadem=picture]     {Dictionary 2nd. Ed.}
+ríibib
+frog     {JP}
+ril
+now     {Core Word}
+ril
+present time, now (Time Auxiliary)     {Dictionary 2nd. Ed.}
+ril i aril irilrili
+forevermore
+rile
+silence     {Dictionary 2nd. Ed.}
+riledim
+silent refusal to discuss “rilehum” (a purposeful refusal to communicate) [rile=silence + dim=container]     {Grammar Updates: TB}
+rilehana
+silence that is comfortable and natural [rile=silence + ana=food]     {Grammar Updates: TB}
+rilehum
+silence that is a purposeful refusal to communicate, with a denial that it’s even happening (see rilhehum) [rile=silence + hum=knife]     {Grammar Updates: TB}
+rilelh
+malicious silence [rile+lh]     {Grammar Updates: TB}
+rilerahum
+silence acutely painful to you, but the other person seems totally unaware [rile=silence + plus “absence”]     {Grammar Updates: TB}
+rilerashum
+silence imposed by internal force of will because all words are wrong words and silence is the sole defense against disintegration [rile=silence + ra=non + shum=air]     {Grammar Updates: TB}
+rilhedim
+malicious silent refusal to discuss “rilhehum” (a purposeful refusal to communicate) [rilhe=malicious silence + dim=container]     {Grammar Updates: TB}
+rilhehum
+malicious silence that is a purposeful refusal to communicate, with a denial that it’s even happening (see rilehum) [rilhe=malicious silence + hum=knife]     {Grammar Updates: TB}
+rilherahum
+malicious silence acutely painful to you     {Grammar Updates: TB}
+rilin
+to drink (rana=drink, noun)     {Dictionary 2nd. Ed.}
+rilinehoth
+bar [rilin=drink + (e)hoth=place]
+rilrili
+hypothetical, would, might, let’s suppose (Time Auxiliary)     {Dictionary 2nd. Ed.}
+rim
+shoulder     {Dictionary 2nd. Ed.}
+rimáayo
+cloak, cape [rim=shoulder + áayo=skirt]     {Dictionary 2nd. Ed.}
+rimel
+copier (like Xerox) [ri=to record + mel=paper]     {Dictionary 2nd. Ed.}
+rin
+plate (dish)     {Dictionary 2nd. Ed.}
+riweth
+to keep track of     {Grammar Updates}
+rizho
+tape recorder [ri=to record + zho=sound]     {Dictionary 2nd. Ed.}
+ro
+weather     {Core Word}
+rod
+million (1,000,000)     {Dictionary 2nd. Ed.}
+rohoro
+storm [ro=weather]     {Dictionary 2nd. Ed.}
+romid
+wild animal [ro- =wild + mid=creature]     {Dictionary 2nd. Ed.}
+róo
+harvest     {Dictionary 2nd. Ed.}
+róohá
+harvester, gatherer [róo=harvest + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+róomath
+barn [róo=harvest + math=building]     {Dictionary 2nd. Ed.}
+rosh
+sun     {Core Word}
+rothil
+wild vine — [ro-= wild + thil=vine]
+ru
+synergy     {Dictionary 2nd. Ed.}
+ruhob
+to be deep     {Dictionary 2nd. Ed.}
+ruhobehal
+middle career, deep career, the career you take after your mid-life crisis [ruhob=deep + hal=work] (see didehal, shawithehal)     {JLP}
+rul
+cat     {Core Word}
+rulelo
+to purr     {Grammar Updates: AH}
+rum
+hip     {Dictionary 2nd. Ed.}
+rumad
+to hide, cover, put away     {Grammar Updates: SH}
+rumadoni
+to bury [rumad=to hide + doni=dirt]     {SH}
+rumi
+shadow     {Dictionary 2nd. Ed.}
+rush
+to be last, final     {Dictionary 2nd. Ed.}
+rushi
+wine     {Dictionary 2nd. Ed.}
+rushihá
+vintner [rushi=wine + -(h)á=suffix for doer]     {YML}
+rúsho
+to be bitter (to taste)     {Dictionary 2nd. Ed.}
+rúshomeénan
+bittersweet [rúsho=bitter+ meénan=sweet]
+rúu
+to lie down     {Dictionary 2nd. Ed.}
+sha
+harmony, to be in harmony     {Core Word}
+sháad
+to come, to go (differentiated by the ‘source’ or ‘goal’ marker on the following noun)     {Core Word}
+sháadehul
+growth through transcendence, either of a person, a non-human, or thing (for example, an organization, or a city, or a sect) [sháad=to come, go + -hul=suffix denoting to an extreme degree]     {Dictionary 2nd. Ed.}
+sháadoni
+to quest for truth     {SH}
+sháal
+day     {Dictionary 2nd. Ed.}
+sháam
+psalm [loanword]     {Dictionary 2nd. Ed.}
+shad
+to be perfect, pure     {Dictionary 2nd. Ed.}
+shadon
+truth, honor, conforming to the harmony of the universe [shad=to be perfect, pure + on=head]     {Dictionary 2nd. Ed.}
+shahina
+rose
+shal
+manners, courtesy     {Dictionary 2nd. Ed.}
+shala
+grief with reason, with blame, and not futile (see: shama, shana, shara, shina)     {Dictionary 2nd. Ed.}
+sham
+love for the child of one’s body, presupposing neither love nor respect nor their absence     {Dictionary 2nd. Ed.}
+shama
+grief with reason, but with no blame, and futile (see: shala, shana, shara, shina)     {Dictionary 2nd. Ed.}
+shamid
+domestic animal [sha=harmony + mid=creature]     {Dictionary 2nd. Ed.}
+shan
+five (5)     {Dictionary 2nd. Ed.}
+shana
+grief with reason, but with no blame and not futile (see: shala, shama, shara, shina)     {Dictionary 2nd. Ed.}
+shane
+to be downy, furry     {Dictionary 2nd. Ed.}
+shanemid
+rabbit [shane=furry + mid=creature]     {Dictionary 2nd. Ed.}
+shanethab
+fifteen (15) [shan=5 + thab=l0]     {Dictionary 2nd. Ed.}
+shara
+grief with reason, with blame, and futile (see: shala, shama, shana, shina)     {Dictionary 2nd. Ed.}
+shasho
+connection     {Dictionary 2nd. Ed.}
+shathul
+mother (formal term, honored mother) [sha=harmony + thul=parent] (see: mathul, ethul)     {Dictionary 2nd. Ed.}
+shawith
+elder, honored adult [sha=harmony + with=person]     {JLP}
+shawithehal
+retired career, elder career, the work you do after you’ve officially retired [shawith=elder + (e)hal=work] (see didehal, ruhobehal)     {JLP}
+she
+to comfort     {Dictionary 2nd. Ed.}
+shé
+with regard to (loanword)     {Grammar Updates}
+sheb
+change, to change     {Core Suppliment}
+sheba
+widow [sheb=change + eba=spouse]     {Dictionary 2nd. Ed.}
+shebasheb
+death [sheb=change]     {Dictionary 2nd. Ed.}
+shebehatheshun
+all coming-of-age rituals and change-of-life rituals, rite of passage [sheb=change + (e)hath=time + (e)shun=ritual]     {JLP}
+shée
+desert     {Dictionary 2nd. Ed.}
+shéeba
+earthworm     {Dictionary 2nd. Ed.}
+shehá
+comforter [she=to comfort + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+shehéeda
+holy day [she=to comfort + héeda=to be sacred]     {Dictionary 2nd. Ed.}
+shel
+to be rigorous     {Dictionary 2nd. Ed.}
+shelalen
+dulcimer     {Dictionary 2nd. Ed.}
+sheni
+intersection     {Dictionary 2nd. Ed.}
+shenidal
+network [sheni=intersection + dal=thing]     {Dictionary 2nd. Ed.}
+sherídan
+niece     {Dictionary 2nd. Ed.}
+sheshi
+sand     {Dictionary 2nd. Ed.}
+sheshihoth
+beach [sheshi=sand + hoth=place]     {Dictionary 2nd. Ed.}
+shi
+to please     {Dictionary 2nd. Ed.}
+shida
+game [shi=to please]     {Dictionary 2nd. Ed.}
+shidi
+to be together     {Dictionary 2nd. Ed.}
+shili
+mist     {Grammar Updates: SH}
+shim
+to “sexual act”, engage in sex, copulation (abstract and completely neutral term)     {Core Word}
+shimá
+one who performs a sexual act, copulater (cannot mean lover) [shim=to “sexual act” + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+shin
+to be two, two (2)     {Dictionary 2nd. Ed.}
+shina
+grief without reason or blame, not futile (see: shala, shama, shana, shara)     {Dictionary 2nd. Ed.}
+shinehal
+computer [shin=two + hal=to work]     {Dictionary 2nd. Ed.}
+shinehóowith
+great granddaughter [shin=two + hóowith=granddaughter]     {Dictionary 2nd. Ed.}
+shinehothul
+great grandmother [shin=two + hothul=grandmother]     {Dictionary 2nd. Ed.}
+shinenil
+between [shin+nil]     {Grammar Updates}
+shineshid
+to be invited     {Dictionary 2nd. Ed.}
+shineshidethóo
+invited guest [shineshid=invited + (e)thóo=guest] (See also: thóo, áathethóo, nithedimethóo, widadithethóo)     {CH}
+shinethab
+twelve (12) [shin=2 + thab=l0]     {Dictionary 2nd. Ed.}
+shineya
+second [shin=two + -(e)ya=suffix for time]     {AB&CH}
+shiniledal
+middle [shin=two + nil=inside + (e)dal=thing]     {SH}
+shinishidi
+couple [shin=two + i=and + shidi=together]     {Grammar Updates: SH}
+shinishin
+calculator [shin=2 + i=and + shin=2]     {Dictionary 2nd. Ed.}
+shinóoya
+to be fertile, creative [shin=two + óoya=heart]     {SH}
+shishid
+united     {Dictionary 2nd. Ed.}
+shishidebeth
+nation     {Dictionary 2nd. Ed.}
+sho
+to be heavy     {Dictionary 2nd. Ed.}
+shod
+room     {Dictionary 2nd. Ed.}
+shóda
+to feel housebound, cut off due to family responsibilities     {Grammar Updates: SH}
+shol
+absence-of-pain     {Dictionary 2nd. Ed.}
+sholalan
+alone in a crowd of people     {Grammar Updates}
+sholan
+to be alone     {Dictionary 2nd. Ed.}
+shon
+peace     {Dictionary 2nd. Ed.}
+shoná
+peacemaker [shon=peace + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+shonida
+tribe
+shóo
+to come to pass, to happen     {Dictionary 2nd. Ed.}
+shóoban
+to enable, to help make happen, remove barriers & provide encourage (SH) [shóo+ban]     {Grammar Updates}
+shóod
+busy, to be busy     {Dictionary 2nd. Ed.}
+shóodal
+news [shóo=happen;come to pass + dal=thing]     {AB}
+Shósho
+Magic Granny (character in stories)     {Dictionary 2nd. Ed.}
+shoth
+predicate     {Dictionary 2nd. Ed.}
+shoya
+hide, animal skin (noun)     {SH}
+shu
+to smell, to sniff, Active smelling. “I am smelling the perfume.” (see láad oyonan passive smell)     {Grammar Updates}
+shub
+to do     {Core Word}
+shud
+to be poor     {Dictionary 2nd. Ed.}
+shulhe
+to be inappropriate, to not fit, to be wrong for [shule+ih=negative connotation]     {Dictionary 2nd. Ed.}
+shulin
+to overflow, as water does     {Dictionary 2nd. Ed.}
+shum
+air     {Core Suppliment}
+shumáad
+to fly     {Grammar Updates: SH}
+shumath
+tower
+shumezh
+to sift [shum=air + mezh=powder]     {CH}
+shun
+ceremony, ritual     {Dictionary 2nd. Ed.}
+shunobahéthe
+ritual bath, to ritually bathe [shun=ceremony,ritual + obahéthe=bath]     {JLP}
+tháa
+to thrive, to do well     {Dictionary 2nd. Ed.}
+thaáhel
+to get by     {Dictionary 2nd. Ed.}
+thab
+ten (10)     {Dictionary 2nd. Ed.}
+thabebath
+sixty (60)     {Dictionary 2nd. Ed.}
+thabebath i nede
+sixty-one (61)     {Dictionary 2nd. Ed.}
+thabebim
+forty (40)     {Dictionary 2nd. Ed.}
+thabebóo
+thirty (30)     {Dictionary 2nd. Ed.}
+thabebud
+ninty (90)     {Dictionary 2nd. Ed.}
+thabenib
+eighty (80)     {Dictionary 2nd. Ed.}
+thabeshan
+fifty (50)     {Dictionary 2nd. Ed.}
+thabeshin
+twenty (20)     {Dictionary 2nd. Ed.}
+thabeya
+tenth [thab=ten + -(e)ya=suffix for time]     {AB&CH}
+thabum
+seventy (70)     {Dictionary 2nd. Ed.}
+thad
+to be able     {Dictionary 2nd. Ed.}
+thade
+birthday     {Dictionary 2nd. Ed.}
+thahoma
+fist, to fist     {SH}
+thal
+to be good, fine, satisfactory     {Core Word}
+thaledan
+gospel [thal=good + (e)dan=language]     {Dictionary 2nd. Ed.}
+tham
+circle     {Dictionary 2nd. Ed.}
+thamehal
+globe, sphere, planet [tham=circle + -(e)hal=unusual degree]     {Dictionary 2nd. Ed.}
+thamehaledal
+asteroid [thamehal=globe + dal=thing]     {Dictionary 2nd. Ed.}
+thamehib
+to squeeze     {SH}
+thamerili
+to wring, wring out [tham=circle + (e)ra=not + ili=water]     {SH}
+thamesho
+to wrap [tham=circle + mesh=across + o=around]     {Grammar Updates: SH}
+thamewud
+arc [tham=circle + (e)wud=part]     {SH}
+thameyul
+tornado [tham=circle + yul=wind]     {Dictionary 2nd. Ed.}
+than
+underground     {Dictionary 2nd. Ed.}
+thazh
+to inherit, inherited     {Dictionary 2nd. Ed.}
+thed
+far, to be far     {Dictionary 2nd. Ed.}
+thede
+jewel     {Dictionary 2nd. Ed.}
+théewóoban
+soon to give birth [thée-=about to + wóoban=to give birth]
+thehena
+happiness, joy: despite negative circumstances: to be joyful, to be happy (thena, thina, thona, thuma= joy]     {Dictionary 2nd. Ed.}
+thel
+to get, obtain     {Dictionary 2nd. Ed.}
+théle
+television [loanword]     {Dictionary 2nd. Ed.}
+them
+need, need for/of     {Dictionary 2nd. Ed.}
+then
+to break     {Dictionary 2nd. Ed.}
+thena
+happines, joy: for good reasons: to be joyful, to be happy (thehena, thina, thona, thuna=joy)     {Dictionary 2nd. Ed.}
+thenazho
+to purr     {AH}
+theni
+interruption [then=to break + -i=diminutive(small)]     {SH}
+thera
+Earth, Terra [loanword]     {Dictionary 2nd. Ed.}
+thesh
+herb     {Dictionary 2nd. Ed.}
+théwóoban
+on the point of giving birth [thé-=about to any minute + wóoban=to give birth]
+thezh
+sorrel (the herb)     {SH}
+thi
+to have     {Core Word}
+thib
+to rise up, stand up     {Dictionary 2nd. Ed.}
+thibá
+wall [thib=stand up + -á=suffix for doer]
+thibeb
+cooking utensil     {Dictionary 2nd. Ed.}
+thid
+thread, string, to thread, to string     {CH}
+thihá
+owner, possessor [thi=to have + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+thil
+vine     {Dictionary 2nd. Ed.}
+thili
+fish     {Core Word}
+thina
+happiness, joy: for no reason: to be joyful, to be happy (thehena, thena, thona, thuna=joy)     {Dictionary 2nd. Ed.}
+thizh
+pie     {CH}
+thob
+one thousand (1,000)     {Dictionary 2nd. Ed.}
+thob i nede
+one thousand and one (1,001)     {Dictionary 2nd. Ed.}
+thod
+to write, written     {Dictionary 2nd. Ed.}
+thode
+writing implement; short form of dalethodewan     {Dictionary 2nd. Ed.}
+thol
+breast     {Dictionary 2nd. Ed.}
+thom
+pillow     {Core Suppliment}
+thoma
+near
+thon
+seed     {Dictionary 2nd. Ed.}
+thona
+happiness, joy: for foolish reasons: to be joyful, to be happy (thehena, thena, thina, thuna=joy)     {Dictionary 2nd. Ed.}
+thóo
+guest (See also: áathethóo, nithedimethóo, shineshidethóo, widadithethóo)     {Dictionary 2nd. Ed.}
+thóohéthe
+guest-clean, the level of cleaning you need to do for guests [thóo=guest + (h)éthe=clean] (See also: éthe, háawithéthe, huhéthe, mudahéthe, onidahéthe)     {CH}
+thosh
+sky     {Core Word}
+thówóoban
+to have just given birth [thó-=to have just + wóoban=to give birth]
+thu
+honey     {Dictionary 2nd. Ed.}
+thud
+bone     {Dictionary 2nd. Ed.}
+thuhá
+beekeeper, apiarist [thu=honey + -(h)á=doer]
+thuhal
+candy     {Dictionary 2nd. Ed.}
+thuhul
+charm, charisma
+thul
+parent     {Core Suppliment}
+thulana
+soup [thul=parent + ana=food]     {Dictionary 2nd. Ed.}
+thun
+muscle     {Dictionary 2nd. Ed.}
+thuna
+happiness, joy: for bad reasons: to be joyful, to be happy (thehena, thena, thina, thona=joy)     {Dictionary 2nd. Ed.}
+thuwebe
+mead [thu=honey + webe=beer]     {Dictionary 2nd. Ed.}
+thuyu
+apricot [thu=honey + yu=fruit]     {Dictionary 2nd. Ed.}
+thuzh
+cake
+u
+to be open     {Dictionary 2nd. Ed.}
+ub
+balm, soothing substance     {Dictionary 2nd. Ed.}
+ubath
+to scratch an itch [ub=balm + bath=fingernail]     {SH}
+ud
+stone     {Core Word}
+udadem
+statue [ud=stone + dadem=picture/image]     {AB}
+udath
+noon     {Dictionary 2nd. Ed.}
+udathihée
+afternoon [udath=noon + ihée=after]     {Dictionary 2nd. Ed.}
+udemeda
+potato [ud=stone + (e)meda=vegetable]     {Dictionary 2nd. Ed.}
+udólo
+lava     {SH}
+udoya
+shell, carapace, hull [ud=stone + oya=skin]     {SH}
+uhud
+nuisance     {Dictionary 2nd. Ed.}
+uhudemid
+tick (insect) [uhud=nuisance + mid=creature]     {Dictionary 2nd. Ed.}
+uhudeshara
+depression as result of small event     {DK}
+uhudezhub
+tick, the insect [uhud=nuisance + zhub=insect]     {YML}
+ul
+hope, to hope     {Dictionary 2nd. Ed.}
+ulanin
+to study [ulin=school]     {Dictionary 2nd. Ed.}
+ulhad
+to betray [lh gives negative connotation]     {Dictionary 2nd. Ed.}
+ulin
+school     {Dictionary 2nd. Ed.}
+um
+seven (7)     {Dictionary 2nd. Ed.}
+ume
+to be full, abundant     {Dictionary 2nd. Ed.}
+umeloláad
+visualization, to visualize     {Grammar Updates}
+umethab
+seventeen (17)     {Dictionary 2nd. Ed.}
+un
+to lead somebody/something     {Dictionary 2nd. Ed.}
+uná
+leader     {Dictionary 2nd. Ed.}
+unáhid
+king [uná=leader + -(h)id=male]     {Dictionary 2nd. Ed.}
+une
+to wear     {Dictionary 2nd. Ed.}
+urahu
+gate [u=to be open + rahu=to be not open]     {Dictionary 2nd. Ed.}
+uth
+brain     {Dictionary 2nd. Ed.}
+uthemid
+whale [uth=brain + mid=creature]     {Dictionary 2nd. Ed.}
+úushili
+fog     {Grammar Updates: SH}
+úuya
+to hurt, feel pain     {Core Word}
+úuzh
+sheets, sheet bedding     {Dictionary 2nd. Ed.}
+uzh
+symbol (of notation or alphabet), character     {Dictionary 2nd. Ed.}
+wa
+known to X because perceived by X (externally or internally) (evidence morpheme): “The reason I claim that what I’m saying is true is that I have perceived it myself”     {Dictionary 2nd. Ed.}
+waá
+assumed false by X because X distrusts source (evidence morpheme)     {Dictionary 2nd. Ed.}
+wáa
+assumed true by X because X trusts source (evidence morpheme)     {Dictionary 2nd. Ed.}
+waálh
+assumed false by speaker because source is not trusted and evil intent by source is assumed, assumed false by X because X distrusts source and X suspects source of acting with evil intent (evidence morpheme)     {Dictionary 2nd. Ed.}
+waha
+any     {AB}
+waludal
+sewage plant, waste water plant     {SH}
+wam
+to be placid, still, calm (as of water, wind)     {Dictionary 2nd. Ed.}
+wan
+back (body part)     {Dictionary 2nd. Ed.}
+we
+perceived by speaker in a dream, perceived by X in a dream (evidence morpheme)     {Dictionary 2nd. Ed.}
+web
+liver     {Dictionary 2nd. Ed.}
+webe
+beer (wéebe=ale)     {Dictionary 2nd. Ed.}
+webehá
+brewer [webe=beer + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+webesh
+hops (the plant)     {SH}
+wedeth
+to be clear     {Dictionary 2nd. Ed.}
+wée
+cry, to cry (of babies) [onomatopoeia]     {Dictionary 2nd. Ed.}
+wéebe
+ale [webe=beer]     {Dictionary 2nd. Ed.}
+wéedan
+to read [dan=language]     {Dictionary 2nd. Ed.}
+wéehoth
+library [wéedan=to read + hoth=place]     {Dictionary 2nd. Ed.}
+wehe
+store, market     {Dictionary 2nd. Ed.}
+wehebuth
+mall, a gathering of stores [wehe=store + buth=gather]     {JLP}
+wehebuthebod
+strip-mall [wehebuth=mall + bod=line]     {JLP}
+wéhená
+gratitude despite negative circumstances, to be grateful (see: wéná, wíná, wóná, wúná)     {Dictionary 2nd. Ed.}
+wem
+to lose     {Dictionary 2nd. Ed.}
+weman
+winter     {Dictionary 2nd. Ed.}
+wemen
+spring (season)     {Dictionary 2nd. Ed.}
+wemon
+autumn     {Dictionary 2nd. Ed.}
+wéná
+gratitude for good reasons, to be grateful (see: wéhená, wíná, wóná, wúná)     {Dictionary 2nd. Ed.}
+wésha
+geshalt     {Dictionary 2nd. Ed.}
+wesháana
+to menstruate late, menstruation [osháana=to menstruate]     {Dictionary 2nd. Ed.}
+weth
+road, way, path, track     {Core Word}
+wethalehale
+melody (literally, music path)     {Dictionary 2nd. Ed.}
+wetham
+turn, make a turn
+wethene
+direction     {SH}
+wi
+an evidential meaning “The reason I claim that what I’m saying is true is because it’s self-evident; everybody can see that it’s true, or everybody is in agreement that it’s true.”; known to X because self-evident (evidence morpheme)     {Dictionary 2nd. Ed.}
+wí
+life     {Dictionary 2nd. Ed.}
+wida
+to carry     {Core Word}
+widáahith
+wire     {Dictionary 2nd. Ed.}
+widadith
+telephone [wida=to carry + dith=voice]     {Dictionary 2nd. Ed.}
+widadithethóo
+phone guest, a guest who calls before they come [widadith=telephone + (e)thóo=guest] (See also: thóo, áathethóo, nithedimethóo, shineshidethóo)     {CH}
+widahath
+when [wida=carry + hath=time] 1) Bíi lalom le widahath hal le wa. “I sing when I work.” 2) Bíi widahath hal le, lalom le wa. “When I work, I sing.”
+widahoth
+where [wida=carry + hoth=place]
+widahuth
+why [wida=carry + huth=reason] Bíi widahuth eril náhal with, lothel ra le wa. “Why the woman kept working, I don’t know.”
+widaweth
+how [wida=carry + weth=path] : Bíi widaweth aril mebedi háawith, lothel ra le wa. “How the children will learn, I don’t know.”
+widazhad
+to be pregnant late in term and eager for the end [wida=to carry + lawida=to be pregnant]     {Dictionary 2nd. Ed.}
+widom
+to hold     {Grammar Updates}
+wihi
+emotion     {Core Word}
+wíi
+to be alive, living [wi=life]     {Core Word}
+wíitham
+clergy [wíi=living + tham=circle]     {Dictionary 2nd. Ed.}
+wil
+optative mode, indicating an option or wish (Time Auxiliary)
+wil
+let there be…, would that…, may, let it be     {Dictionary 2nd. Ed.}
+Wil sha
+greeting, (hello) “Let there be harmony” [wil=let there be + sha=harmony]     {Dictionary 2nd. Ed.}
+wili
+river, creek [ili=water]     {Core Suppliment}
+wilibod
+list [wili=river + bod=line]
+wilidunedal
+reservoir for fluids [wili=river + dun=meadow + (e)dal=thing]     {SH}
+wilomina
+to perform, act [wil=let/may + oba=body + mina=move]     {SH}
+wilominabelid
+theater [wilomina=act/perform + belid=house]     {AB}
+wilominahoth
+stage [wilomina=act/perform + hoth=place]     {AB}
+wíná
+gratitude for no reason, to be grateful (see: wéhená, wéná, wóná, wúná)     {Dictionary 2nd. Ed.}
+wírabanenath
+abortion, to abort, have an abortion [wí+raban+ena+th]     {CF}
+wish
+gas (oxygen, nitrogen, etc.)     {Dictionary 2nd. Ed.}
+with
+person, woman, adult ; to specify a male person, add the masculine suffix ‘-id’     {Core Word}
+withelhebe
+misogyny, hatred of women     {Grammar Updates: MLM}
+withid
+man, male person [with=person + -id=suffix for male]     {Dictionary 2nd. Ed.}
+withidetho
+male-identified     {SH}
+wíyaáláan
+respiration rate [wíyul=to breathe + aáláan=wave]     {SH}
+wíyul
+to breathe [wí=life + yul=wind]     {SH}
+wíyuleth
+breath
+wo
+imagined or invented by speaker, hypothetical, imagined or invented by X, hypothetical (evidence morpheme)     {Dictionary 2nd. Ed.}
+wóbáan
+to bring to birth (the activity of a midwife or other person helping with the delivery of an infant)
+woban
+birth (noun) (origin, beginning)     {Dictionary 2nd. Ed.}
+wobanedan
+native tongue, birth language [woban=birth + (e)dan=language]
+wobaneya
+birth (time) ‘at birth’ (at the time she was born) [woban=birth + -(e)ya=suffix for case marker time]
+wod
+to sit     {Dictionary 2nd. Ed.}
+wodama
+genitalia (female, outer) [wo+dama]     {SH}
+wodazhud
+matrix (in geology)     {SH}
+wodehahdo
+meditate, to meditate, sit in a meditative state [wod=sit + hahodo=medatative state of consciousness]     {JLP}
+woho
+all, every (don’t change form or add case marker)     {Dictionary 2nd. Ed.}
+wohóoha
+scene, view, experience of a place [woho+hóo+ha]
+wohóol
+genitalia (female, all) all female genitalia & reproductive oragans [wo+óol]     {SH}
+wohosheni
+a word meaning the opposite of alienation; to feel joined to, part of someone or something without reservations or barriers [woho=all; sheni=intersection]     {Dictionary 2nd. Ed.}
+wohothul
+foremother, ancestor [woho=all + thul=parent]     {Dictionary 2nd. Ed.}
+wohothulewoth
+foremother wisdom [wohothul=foremother + (e)woth=wisdom]     {JLP}
+wom
+throat     {Dictionary 2nd. Ed.}
+womedim
+neck (body part) [wom=throat + dim=container]     {Dictionary 2nd. Ed.}
+womil
+livestock     {Dictionary 2nd. Ed.}
+womilá
+breeder of animals [womil=livestock + -á=suffix for doer]
+won
+handicap     {Dictionary 2nd. Ed.}
+wóná
+gratitude for foolish reasons, to be grateful (see: wéhená, wéná, wíná, wúná)     {Dictionary 2nd. Ed.}
+wonewith
+to be socially dyslexic; uncomprehending of the social signals of others [won=handicap + with=person]     {Dictionary 2nd. Ed.}
+wóo
+speaker has total lack of knowledge as to the validity, indicates that X states a total lack of know ledge as to the validity of the matter (evidence morpheme)     {Dictionary 2nd. Ed.}
+wóoban
+to give birth, to bear     {Core Word}
+wóobaná
+birth-giver [wóoban=to give birth + -á=suffix for doer]     {Dictionary 2nd. Ed.}
+wóoya
+womb     {Grammar Updates}
+woth
+wisdom     {Dictionary 2nd. Ed.}
+wothá
+sage, wise person [woth+á]     {Dictionary 2nd. Ed.}
+wothemid
+mule [woth+mid wisdom-creature]     {Dictionary 2nd. Ed.}
+wothesh
+sage (the herb) [woth=wisdon + thesh=herb]     {SH}
+wu
+such a…, what a…     {Dictionary 2nd. Ed.}
+wud
+part (of a machine, etc)     {Dictionary 2nd. Ed.}
+wuman
+summer     {Dictionary 2nd. Ed.}
+wúná
+gratitude for bad reasons, to be grateful (see: wúná, wéhená, wéná, wíná, wóná)     {Dictionary 2nd. Ed.}
+wush
+broom     {Dictionary 2nd. Ed.}
+yáalin
+kelp     {SH}
+yáamid
+teenage animal, older but not full-grown creature [yáa-=teenage + mid=animal] (see ámid, háamid)
+yáanin
+tree     {Dictionary 2nd. Ed.}
+yáawith
+teenager, older but not full-grown person [yáa-=teenage + with=person] (see áwith, háawith)
+yáazh
+goose     {CH}
+yada
+thirst, to thirst, to be thirsty, thirsting     {Core Word}
+yahanesh
+magic, enchantment     {Dictionary 2nd. Ed.}
+yahaneshá
+witch, magic-maker     {Grammar Updates: CF}
+yam
+baking dish     {Dictionary 2nd. Ed.}
+yan
+analysis, to analyze     {Dictionary 2nd. Ed.}
+yazh
+duck     {CH}
+yeb
+kidney     {Dictionary 2nd. Ed.}
+yed
+valley     {Dictionary 2nd. Ed.}
+yem
+sour (to taste)     {Dictionary 2nd. Ed.}
+yen
+hat     {Dictionary 2nd. Ed.}
+yéshile
+to be bad and good     {Dictionary 2nd. Ed.}
+yeth
+silver     {Dictionary 2nd. Ed.}
+yib
+solid (as opposed to gas or liquid)     {CH}
+yibom
+wax [yib=solid + bom=oil]     {CH}
+yidan
+mercy     {Dictionary 2nd. Ed.}
+yide
+to hunger, hungry     {Dictionary 2nd. Ed.}
+yil
+to be under, below     {Core Word}
+Yilesháal
+Saturday [yil+sháal Below Day]     {Dictionary 2nd. Ed.}
+yime
+run, to run     {CH}
+yo
+spaceship     {Dictionary 2nd. Ed.}
+yob
+coffee     {Core Suppliment}
+yod
+to eat     {Core Word}
+yoda
+spaceliner [yo=spaceship]     {Dictionary 2nd. Ed.}
+yodá
+diner, one who eats [yod=to eat]     {Dictionary 2nd. Ed.}
+yodálh
+glutton [yodá=diner + lh=negative connotation]     {Dictionary 2nd. Ed.}
+yom
+safe, secure     {Core Word}
+yomedim
+trunk (for storage) [yom=safe + dim=container]     {Dictionary 2nd. Ed.}
+yon
+government     {Dictionary 2nd. Ed.}
+yoth
+will of mind (theological)     {Dictionary 2nd. Ed.}
+yu
+fruit     {Core Word}
+yudáan
+morpheme
+yuhoya
+peel, peeling (noun) [yu=friut + (h)oya=skin]     {SH}
+yul
+wind     {Dictionary 2nd. Ed.}
+yulehul
+hurricane [yul=wind + -hul=suffix denoting to an extreme degree]     {Dictionary 2nd. Ed.}
+yulish
+feather [yul=wind + ishid=finger]     {SH}
+yuloma
+wing [yul=wind + oma=hand]     {Grammar Updates: SH}
+yum
+beetle     {Core Suppliment}
+yumal
+nut
+yun
+orange (the fruit)     {Dictionary 2nd. Ed.}
+yurana
+cordial (the beverage) [yu=fruit + rana=drink]     {Dictionary 2nd. Ed.}
+yushoya
+rind [yu=fruit + shoya=hide]     {SH}
+zha
+name     {Dictionary 2nd. Ed.}
+zháa
+wrinkle (in skin)     {Dictionary 2nd. Ed.}
+zháadin
+to menopause [zháa=wrinkle]     {Dictionary 2nd. Ed.}
+zháadinebúlith
+menopause induced insanity [zháadin=menopause + (e) + búlith=insanity]     {JLP}
+zháahóowadin
+hot flash (menopause symptom) [zháadin=menopause + óowa=fire]     {LA, AB}
+zhab
+enigma, puzzle     {Dictionary 2nd. Ed.}
+zhala
+regret with reason, with blame, and not futile (see: zhala, zhama, zhana, zhara, zhina)     {Dictionary 2nd. Ed.}
+zhaláad
+the act of relinquishing a cherished/ comforting/familiar illusion or frame of perception [zha=name + láad=to perceive]     {Dictionary 2nd. Ed.}
+zhama
+regret with reason, but with no blame, and futile (see: zhala, zhana, zhara, zhina)
+zhana
+regret with reason, but with no blame and not futile (see: zhala, zhama, zhara, zhina)
+zhara
+regret with reason, with blame, and futile (see: zhala, zhama, zhana, zhina)
+zhazh
+airplane     {Dictionary 2nd. Ed.}
+zhe
+to be like, as, similar     {Core Word}
+zhebom
+fat, grease [zhe=like + bom=oil]     {SH}
+zhedal
+metaphor, simile [zhe=like + dal=thing]     {Grammar Updates: SH}
+zhedam
+resemble; be reminiscent of [zhe=similar + dam=show signs of state or emotion]     {AB}
+zhedi
+agree, to agree verbally [zhe=alike + di=speak] (see also:zhelith, zheshub, zheláad, zhethob)     {AB}
+zhehá
+identical sibling [zhe=like + -á=suffix for doer]
+zheláad
+consensus, to consense [zhe=alike + láad=perceive] (see also:zhelith, zhedi, zheshub, zhethob)     {AB}
+zheledal
+self, identity [zhe=like + le=me + dal=thing]     {SH}
+zheledam
+persona [zhe=like + le=me + dam=seem]     {SH}
+zhelehal
+work identity [zhe=like + le=me + hal=work]     {SH}
+zhelith
+agree, to think the same [zhe=alike + lith=think] (see also: zhedi, zheshub, zheláad, zhethob)     {AB}
+zhesháana
+to menstruate in sync with another woman, menstruation [zhe=like +sháana]
+Zheshu
+Jesus of Nazareth (loan word)     {Dictionary 2nd. Ed.}
+zheshub
+cooperation, to cooperate [zhe=alike + shub=do] (see also:zhelith, zhedi, zheláad, zhethob)     {AB}
+zhethalel
+to police; to act as police [zhethal=just(ice) + el=make]     {AB}
+zhethalelá
+police officer [zhethal=just(ice) + -á =doer/maker]     {AB}
+zhethob
+agreement, written agreement [zhe=alike + thob=write] (see also:zhelith, zhedi, zheshub, zheláad)     {AB}
+zhilhad
+prisoner     {Dictionary 2nd. Ed.}
+zhina
+regret without reason or blame, not futile (see: zhala, zhama, zhana, zhara)
+zho
+sound (audible)     {Core Word}
+zhob
+machine     {Dictionary 2nd. Ed.}
+zholh
+noise [zho=sound + lh=negative connotation]     {Dictionary 2nd. Ed.}
+zhomid
+bee [zho=sound + mid=creature]     {Dictionary 2nd. Ed.}
+zhonal
+aloud [zho=sound + -nal=suffix for manner]     {Dictionary 2nd. Ed.}
+zhorumi
+echo [zho=sound + rumi=shadow]     {Grammar Updates: SH}
+zhozhub
+bee [zho=sound + zhub=insect]     {YML}
+zhu
+tea     {Dictionary 2nd. Ed.}
+zhub
+insect     {Core Word}
+zhuth
+piano     {Dictionary 2nd. Ed.}
+
